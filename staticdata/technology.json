@@ -1,0 +1,238 @@
+[
+    {
+        "phrase": "هَلْ يُمْكِنُكَ إِضَافَتِي عَلَى فِيسْبُوك؟",
+        "meaning": "Can you add me on Facebook?"
+    },
+    {
+        "phrase": "كَيْفَ أَحْذِفُ هَذِهِ التَّدْوِينَةَ؟",
+        "meaning": "How do I delete this post?"
+    },
+    {
+        "phrase": "لَا يُمْكِنُنِي تَحْمِيلُ الصُّورَةِ، هَلْ تَعْرِفُ السَّبَبَ؟",
+        "meaning": "I can't upload the picture; do you know why?"
+    },
+    {
+        "phrase": "أُرِيدُ تَحْدِيثَ تَطْبِيقِ الوَاتْسَابِ لِكَي أَحْصُلَ عَلَى الْمِيَّزَاتِ الجَدِيدَةِ.",
+        "meaning": "I want to update WhatsApp to get the new features."
+    },
+    {
+        "phrase": "كَيْفَ أَفْتَحُ حِسَابًا جَدِيدًا عَلَى إِنْسْتَغْرَام؟",
+        "meaning": "How do I open a new account on Instagram?"
+    },
+    {
+        "phrase": "رِسَالَتِي عَلَى الوَاتْسَابِ لَمْ تُرْسَلْ بَعْدُ، مَا السَّبَبُ؟",
+        "meaning": "My WhatsApp message hasn't been sent yet; what's the reason?"
+    },
+    {
+        "phrase": "هَلْ تَعْرِفُ كَيْفَ أُغَيِّرُ كَلِمَةَ السِّرِّ؟",
+        "meaning": "Do you know how to change the password?"
+    },
+    {
+        "phrase": "الْهَاتِفُ بَطِيءٌ جِدًّا، هَلْ أَحْذِفُ بَعْضَ التَّطْبِيقَاتِ؟",
+        "meaning": "The phone is very slow; should I delete some apps?"
+    },
+    {
+        "phrase": "لَا يُمْكِنُنِي تَشْغِيلُ الْفِيدْيُوهَاتِ عَلَى تَطْبِيقِ يوتيوب، هَلْ تَوَاجِهُ نَفْسَ المُشْكِلَةِ؟",
+        "meaning": "I can't play videos on YouTube; are you facing the same issue?"
+    },
+    {
+        "phrase": "كَيْفَ أُرْسِلُ صُورَةً فِي الرِّسَائِلِ الخَاصَّةِ عَلَى تْوِيتَر؟",
+        "meaning": "How do I send a photo in private messages on Twitter?"
+    },
+    {
+        "phrase": "أُرِيدُ مَسْحَ كُلِّ التَّارِيخِ التَّصَفُّحِيِّ مِنَ الْمُتَصَفِّحِ.",
+        "meaning": "I want to clear all my browsing history from the browser."
+    },
+    {
+        "phrase": "هَلْ تَعْرِفُ كَيْفَ أَفْعَلُ ذَلِكَ فِي الإِعْدَادَاتِ؟",
+        "meaning": "Do you know how to do that in settings?"
+    },
+    {
+        "phrase": "الْإِشْعَارَاتُ لَا تَصِلُ إِلَى هَاتِفِي، مَا الْحَلُّ؟",
+        "meaning": "Notifications aren't coming through on my phone; what’s the solution?"
+    },
+    {
+        "phrase": "حَاوَلْتُ تَسْجِيلَ الدُّخُولِ، لَكِنَّ كَلِمَةَ السِّرِّ خَاطِئَةٌ.",
+        "meaning": "I tried logging in, but the password is incorrect."
+    },
+    {
+        "phrase": "كَيْفَ أَفْعَلُ ذَلِكَ عَلَى نِظَامِ التَّشْغِيلِ أَنْدُرُوِيد؟",
+        "meaning": "How do I do that on Android OS?"
+    },
+    {
+        "phrase": "أُرِيدُ تَغْيِيرَ صُورَةِ الحِسَابِ الشَّخْصِيِّ عَلَى فِيسْبُوك.",
+        "meaning": "I want to change my profile picture on Facebook."
+    },
+    {
+        "phrase": "مَا أَفْضَلُ تَطْبِيقٍ لِتَعَلُّمِ بَرْمَجَةِ التَّطْبِيقَاتِ؟",
+        "meaning": "What’s the best app to learn app programming?"
+    },
+    {
+        "phrase": "عِنْدَمَا أَكْتُبُ، يَظْهَرُ تَصْحِيحٌ تِلْقَائِيٌّ، كَيْفَ أُلْغِيهِ؟",
+        "meaning": "When I type, autocorrect appears; how do I disable it?"
+    },
+    {
+        "phrase": "لِمَاذَا بَطَّارِيَةُ الهَاتِفِ تَنْفَذُ سَرِيعًا؟",
+        "meaning": "Why does my phone battery drain quickly?"
+    },
+    {
+        "phrase": "كَيْفَ أَفْتَحُ وَثِيقَةَ بِي دي إِفْ عَلَى الْهَاتِفِ؟",
+        "meaning": "How do I open a PDF document on the phone?"
+    },
+    {
+        "phrase": "كَيْفَ أَحْمِلُ وَأُثَبِّتُ نِظَامَ تَشْغِيلِ أَنْدُرُوِيدْ مُخَصَّصٍ؟",
+        "meaning": "How do I download and install a custom Android OS?"
+    },
+    {
+        "phrase": "هَلْ تَحْتَاجُ إِلَى إِذْنِ تَجْذِيرِ الهَاتِفِ قَبْلَ تَثْبِيتِ الرُّومْ الْمُخَصَّصَةِ؟",
+        "meaning": "Do you need to root the phone before installing a custom ROM?"
+    },
+    {
+        "phrase": "مَا أَفْضَلُ الرُّومْ الْمُخَصَّصَةِ لِلْحِفَاظِ عَلَى السِّرِّيَّةِ؟",
+        "meaning": "What’s the best custom ROM for privacy?"
+    },
+    {
+        "phrase": "أُرِيدُ تَثْبِيتَ نِظَامِ لِينُكْسْ عَلَى جِهَازِي الْمَحْمُولِ، هَلْ تَوَاجِهُ صُعُوبَاتٍ؟",
+        "meaning": "I want to install Linux on my laptop; are there any difficulties?"
+    },
+    {
+        "phrase": "كَيْفَ أُحَسِّنُ أَدَاءَ أَنْدُرُوِيدْ بَعْدَ تَثْبِيتِ الرُّومْ الْمُخَصَّصَةِ؟",
+        "meaning": "How can I improve Android performance after installing a custom ROM?"
+    },
+    {
+        "phrase": "هَلْ تَسْتَخْدِمُ وَاكِيلًا لِلتَّصَفُّحِ الآمِنِ؟",
+        "meaning": "Do you use a proxy for secure browsing?"
+    },
+    {
+        "phrase": "أُفَكِّرُ فِي تَشْفِيرِ هَاتِفِي لِزِيَادَةِ الْحِمَايَةِ. هَلْ تَنصَحُ بِذَلِكَ؟",
+        "meaning": "I’m considering encrypting my phone for extra security. Do you recommend it?"
+    },
+    {
+        "phrase": "مَا أَفْضَلُ أَدَاةٍ لِتَعَقُّبِ النِّظَامِ فِي لِينُكْس؟",
+        "meaning": "What’s the best tool for system monitoring on Linux?"
+    },
+    {
+        "phrase": "كَيْفَ يُمْكِنُنِي فَكُّ قُفْلِ الْبُوتْلُودِرْ عَلَى هَاتِفِي؟",
+        "meaning": "How can I unlock the bootloader on my phone?"
+    },
+    {
+        "phrase": "أُرِيدُ تَثْبِيتَ جِهَازِي عَنْ بُعْدٍ، هَلْ تُوَجِدُ تَطْبِيقَاتٌ خَاصَّةٌ لِذَلِكَ؟",
+        "meaning": "I want to secure my device remotely; are there specific apps for that?"
+    },
+    {
+        "phrase": "أَسْتَخْدِمُ نِظَامَ لِينُكْسْ لِلْبَرْمَجَةِ، وَأَبْحَثُ عَنْ أَدَوَاتِ تَخْفِيضِ التَّنْطِيقِ لِزِيَادَةِ السِّرْعَةِ.",
+        "meaning": "I use Linux for programming, and I'm looking for tools to reduce latency for speed improvement."
+    },
+    {
+        "phrase": "كَيْفَ أُثَبِّتُ وَأُدِيرُ شَبَكَاتِ افْتِرَاضِيَّةٍ فِي نِظَامِ لِينُكْسْ؟",
+        "meaning": "How do I set up and manage virtual networks on Linux?"
+    },
+    {
+        "phrase": "أُرِيدُ طَرِيقَةً لِتَشْغِيلِ تَطْبِيقَاتِ أَنْدُرُوِيدْ عَلَى نِظَامِ التَّشْغِيلِ لِينُكْسْ.",
+        "meaning": "I want a way to run Android apps on Linux OS."
+    },
+    {
+        "phrase": "كَيْفَ أَزِيدُ مِنْ خُصُوصِيَّتِي عِنْدَ اسْتِخْدَامِ الأَنْتَرْنِتْ؟",
+        "meaning": "How can I increase my privacy when using the internet?"
+    },
+    {
+        "phrase": "مَا أَفْضَلُ طَرِيقَةٍ لِقِرَاءَةِ الكُودِ الْمَصْدَرِيِّ فِي نِظَامِ لِينُكْسْ؟",
+        "meaning": "What’s the best way to read source code on Linux?"
+    },
+    {
+        "phrase": "أُرِيدُ تَثْبِيتَ إِصْدَارٍ خَفِيفٍ مِنْ أَنْدُرُوِيدْ لِلْأَجْهِزَةِ القَدِيمَةِ. مَا الَّذِي تَنْصَحُ بِهِ؟",
+        "meaning": "I want to install a lightweight version of Android for old devices. What do you recommend?"
+    },
+    {
+        "phrase": "هَلْ تَسْتَخْدِمُ أَيَّ بَرَامِجَ لِإِخْفَاءِ الهُوِيَّةِ عِنْدَ تَصَفُّحِ الإِنْتَرْنِت؟",
+        "meaning": "Do you use any programs for anonymity while browsing the internet?"
+    },
+    {
+        "phrase": "مَا أَفْضَلُ التَّطْبِيقَاتِ لِتَشْغِيلِ الشِّيلْ (شِلّ) عَلَى نِظَامِ أَنْدُرُوِيدْ؟",
+        "meaning": "What are the best apps for running shell on Android?"
+    },
+    {
+        "phrase": "أُفَكِّرُ فِي اسْتِخْدَامِ تَوْزِيعَةِ كَالِي لِينُكْسْ لِتَعَلُّمِ الأَمْنِ الرَّقَمِيِّ. هَلْ هِيَ خِيَارٌ مُنَاسِبٌ؟",
+        "meaning": "I’m considering using Kali Linux to learn cybersecurity. Is it a good choice?"
+    },
+    {
+        "phrase": "كَيْفَ أَتَحَكَّمُ فِي الأَذُونَاتِ لِلْحِفَاظِ عَلَى السِّرِّيَّةِ فِي أَنْدُرُوِيدْ؟",
+        "meaning": "How do I manage permissions to maintain privacy on Android?"
+    },
+    {
+        "phrase": "كَيْفَ أَضْبِطُ إِعْدَادَاتِ مُدِيرِ النَّوَافِذِ المُقَسَّمَةِ لِتَعْزِيزِ الإِنْتَاجِيَّةِ؟",
+        "meaning": "How do I configure the tiling window manager settings to boost productivity?"
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُنِي تَحْدِيدُ اخْتِصَارَاتٍ خَاصَّةٍ لِلنَّوَافِذِ فِي مُدِيرِ النَّوَافِذِ الْمُقَسَّمَةِ؟",
+        "meaning": "Can I set custom shortcuts for windows in the tiling window manager?"
+    },
+    {
+        "phrase": "مَا أَفْضَلُ مُدِيرِ نَوَافِذِ مُقَسَّمَ لِنِظَامِ لِينُكْسْ؟",
+        "meaning": "What’s the best tiling window manager for Linux?"
+    },
+    {
+        "phrase": "أُرِيدُ نِظَامَ لِينُكْسْ خَفِيفٍ لِلْأَجْهِزَةِ ذَاتِ الإِمْكَانِيَاتِ الْمُنْخَفِضَةِ مَعَ مُدِيرِ نَوَافِذِ مُقَسَّمَ. مَا الْخِيَارُ الْمُنَاسِبُ؟",
+        "meaning": "I need a lightweight Linux setup with a tiling window manager for low-spec devices. What’s a good option?"
+    },
+    {
+        "phrase": "كَيْفَ أُدِيرُ الشَّاشَاتِ المُتَعَدِّدَةِ فِي مُدِيرِ النَّوَافِذِ الْمُقَسَّمَةِ؟",
+        "meaning": "How do I manage multiple screens in a tiling window manager?"
+    },
+    {
+        "phrase": "مَا هِيَ افْضَلُ الطَّرِيقَةِ لِكِتَابَةِ الإِسْكْرِبْتَاتِ الَّتِي تُحَسِّنُ مِنْ تَخْطِيطِ النَّوَافِذِ فِي لِينُكْسْ؟",
+        "meaning": "What’s the best way to write scripts that optimize window layout in Linux?"
+    },
+    {
+        "phrase": "كَيْفَ أُدِيرُ تَحَرُّكَاتِ النَّوَافِذِ وَتَحْجِيمِهَا بِاخْتِصَارَاتٍ فِي مُدِيرِ النَّوَافِذِ الْمُقَسَّمَةِ؟",
+        "meaning": "How can I manage window movements and resizing with shortcuts in a tiling window manager?"
+    },
+    {
+        "phrase": "هَلْ تَدْعَمُ مُدِيرَاتُ النَّوَافِذِ الْمُقَسَّمَةِ إِضَافَاتٍ لِتَعْدِيلِ الْوَظَائِفِ؟",
+        "meaning": "Do tiling window managers support extensions for customizing functionality?"
+    },
+    {
+        "phrase": "أُرِيدُ مَزِيدًا مِنَ السِّرِّيَّةِ عِنْدَ اسْتِخْدَامِ لِينُكْسْ فِي نَوَافِذِ مُقَسَّمَةٍ. أَيُّ طَرِيقَةٍ تُنصَحُ بِهَا؟",
+        "meaning": "I want more privacy when using Linux with a tiling window setup. Any recommendations?"
+    },
+    {
+        "phrase": "كَيْفَ أَتَحَكَّمُ فِي النَّوَافِذِ الْعَائِمَةِ فِي مُدِيرِ نَوَافِذِ مُقَسَّمَةٍ؟",
+        "meaning": "How do I control floating windows in a tiling window manager?"
+    },
+    {
+        "phrase": "أُرِيدُ طَرِيقَةً لِعَرْضِ تَنْبِيهَاتِ النِّظَامِ بِلَوْنٍ مُخْتَلِفٍ فِي تَخْطِيطِ النَّوَافِذِ.",
+        "meaning": "I want a way to display system notifications in a different color in my window layout."
+    },
+    {
+        "phrase": "مَا أَفْضَلُ بَرَامِجِ تَأَمُّنٍ لِلْبَيْنَاتِ فِي نِظَامِ لِينُكْسْ مَعَ مُدِيرِ نَوَافِذِ مُقَسَّمَ؟",
+        "meaning": "What are the best encryption tools for files on Linux with a tiling window manager?"
+    },
+    {
+        "phrase": "كَيْفَ أَتَكَيَّفُ مَعَ مُدِيرِ نَوَافِذِ مُقَسَّمَ فِي الْأَعْمَالِ الْيَوْمِيَّةِ؟",
+        "meaning": "How do I adapt to using a tiling window manager in daily work?"
+    },
+    {
+        "phrase": "هَلْ هُنَاكَ طَرِيقَةٌ لِتَثْبِيتِ وَ تَحْدِيثِ مُدِيرِ نَوَافِذِ مُقَسَّمَ مَعَ بَرَامِجَ أُخْرَى بِسُهُولَةٍ؟",
+        "meaning": "Is there a way to easily install and update a tiling window manager alongside other software?"
+    },
+    {
+        "phrase": "هَلْ تُوجَدُ إِضَافَاتٌ تُحَسِّنُ مِنْ تَخْطِيطِ النَّوَافِذِ وَتَقْسِيمِهَا؟",
+        "meaning": "Are there plugins to improve window layout and tiling?"
+    },
+    {
+        "phrase": "كَيْفَ أُدِيرُ جَلَسَاتٍ مُتَعَدِّدَةٍ فِي مُدِيرِ النَّوَافِذِ الْمُقَسَّمَةِ لِكَثْرَةِ الْعَمَلِ عَلَى مَشَارِيعٍ مُخْتَلِفَةٍ؟",
+        "meaning": "How do I manage multiple sessions in a tiling window manager for working on different projects?"
+    },
+    {
+        "phrase": "أَسْتَخْدِمُ مُدِيرَ نَوَافِذِ مُقَسَّمَ، وَأَبْحَثُ عَنْ طَرِيقَةٍ لِتَحْكِيمِ التَّخْطِيطِ لِتَكُونَ النَّوَافِذِ تَفْتَحُ فِي مَكَانِهَا التَّلْقَائِيٍّ.",
+        "meaning": "I use a tiling window manager and am looking for a way to automatically position windows when they open."
+    },
+    {
+        "phrase": "أُفَكِّرُ فِي تَثْبِيتِ بَرْنَامَجٍ لِلْقِيَامِ بِتَحْلِيلِ الْكَثَافَةِ الْمَرْئِيَّةِ لِلْوَحْدَاتِ فِي مُدِيرِ النَّوَافِذِ الْمُقَسَّمَ.",
+        "meaning": "I'm considering installing software for visual density analysis of workspaces in the tiling window manager."
+    },
+    {
+        "phrase": "هَلْ تُدِيرُ مُدِيرَ نَوَافِذِكَ عَبْرَ مَلَفَّاتِ التَّعْدِيلِ الْخَاصَّةِ، أَوْ تُفَضِّلُ تَحْكِيمِهِ بِيَدِكَ؟",
+        "meaning": "Do you manage your window manager via config files, or do you prefer to control it manually?"
+    }
+]

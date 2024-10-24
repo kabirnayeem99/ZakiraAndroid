@@ -1,0 +1,406 @@
+[
+    {
+        "phrase": "هَلْ يَجِبُ أَنْ أَفْعَلَ هَذَا الْآنَ أَمْ أُؤَجِّلُهُ لَاحِقًا؟",
+        "meaning": "Should I do this now or postpone it for later?"
+    },
+    {
+        "phrase": "مَاذَا سَيَحْصُلُ إِذَا اتَّخَذْتُ هَذَا الْقَرَارَ؟",
+        "meaning": "What will happen if I make this decision?"
+    },
+    {
+        "phrase": "عَلَيَّ أَنْ أَتَحَكَّمَ فِي غَضَبِي.",
+        "meaning": "I must control my anger."
+    },
+    {
+        "phrase": "هَلْ أَخْتَارُ هَذَا الطَّرِيقَ أَمْ ذَاكَ؟",
+        "meaning": "Should I choose this path or that one?"
+    },
+    {
+        "phrase": "سَأَعْمَلُ عَلَى إِنْهَاءِ هَذَا الْعَمَلِ قَبْلَ أَنْ أَبْدَأَ فِي غَيْرِهِ.",
+        "meaning": "I will finish this task before starting another."
+    },
+    {
+        "phrase": "لَا أُرِيدُ أَنْ أَنظُرَ إِلَى مَا لَا يَجِبُ أَنْ أَنظُرَ إِلَيْهِ.",
+        "meaning": "I don't want to look at what I shouldn't look at."
+    },
+    {
+        "phrase": "هَلْ هَذَا الْقَرَارُ صَائِبٌ أَمْ خَاطِئٌ؟",
+        "meaning": "Is this decision right or wrong?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَكُونَ أَكْثَرَ انْضِبَاطًا فِي قَرَارَاتِي.",
+        "meaning": "I need to be more disciplined in my decisions."
+    },
+    {
+        "phrase": "مَا هِيَ الْخُطْوَةُ التَّالِيَةُ الَّتِي يَجِبُ أَنْ أَتَّخِذَهَا؟",
+        "meaning": "What is the next step I should take?"
+    },
+    {
+        "phrase": "سَأَسْتَغْرِقُ بَعْضَ الْوَقْتِ لَأَفْكِرَ فِي الْأُمُورِ.",
+        "meaning": "I will take some time to think things over."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَكُونَ هَادِئًا فِي مَوَاقِفِي.",
+        "meaning": "I must remain calm in my situations."
+    },
+    {
+        "phrase": "هَلْ هَذَا هُوَ الْوَقْتُ الْمُنَاسِبُ لِفِعْلِ ذَلِكَ؟",
+        "meaning": "Is this the right time to do that?"
+    },
+    {
+        "phrase": "لَنْ أَسْمَحَ لِمَشَاعِرِي بِالْتَّحَكُّمِ فِي أَفْعَالِي.",
+        "meaning": "I won't let my emotions control my actions."
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى خُطَّةٍ وَاضِحَةٍ لِمَا أُرِيدُ تَحْقِيقَهُ.",
+        "meaning": "I need a clear plan for what I want to achieve."
+    },
+    {
+        "phrase": "قَدْ أَكُونُ مُخْطِئًا، لَكِنَّ عَلَيَّ أَنْ أُجَرِّبَ.",
+        "meaning": "I might be wrong, but I have to try."
+    },
+    {
+        "phrase": "مَاذَا سَيَفْكِرُ الْآخَرُونَ فِي هَذَا؟",
+        "meaning": "What will others think of this?"
+    },
+    {
+        "phrase": "هَلْ أَسْتَطِيعُ التَّرْكِيزَ عَلَى مَا هُوَ أَهَمُّ؟",
+        "meaning": "Can I focus on what is more important?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَكُونَ مُتَفَائِلًا حَوْلَ الْمُسْتَقْبَلِ.",
+        "meaning": "I should be optimistic about the future."
+    },
+    {
+        "phrase": "مَتَى سَأَحْتَاجُ إِلَى إِحْدَاثِ تَغْيِيرَاتٍ فِي حَيَاتِي؟",
+        "meaning": "When will I need to make changes in my life?"
+    },
+    {
+        "phrase": "هَلْ أَفْعَلُ الشَّيْءَ الصَّحِيحَ بِالتَّفْعِيلِ؟",
+        "meaning": "Am I doing the right thing by taking action?"
+    },
+    {
+        "phrase": "أَتَمَنَّى أَلَّا أَفْقِدَ التَّحَمُّلَ فِي وَجْهِ الصُّعُوبَاتِ.",
+        "meaning": "I hope I don't lose my perseverance in the face of difficulties."
+    },
+    {
+        "phrase": "مَاذَا أَفْعَلُ إِذَا وُجِهْتُ بِمَشَاكِلَ؟",
+        "meaning": "What should I do if I face problems?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُحَافِظَ عَلَى هُدُوئِي فِي الْمَوَاقِفِ الصَّعْبَةِ.",
+        "meaning": "I must maintain my calm in difficult situations."
+    },
+    {
+        "phrase": "لَا بُدَّ أَنْ أَتَّخِذَ قَرَارًا قَوِيًّا الْيَوْمَ.",
+        "meaning": "I must make a strong decision today."
+    },
+    {
+        "phrase": "هَلْ يَجِبُ عَلَيَّ التَّفَكُّرُ فِي خِيَارَاتِي أَوْ أَسْرَعُ فِي الْقَرَارِ؟",
+        "meaning": "Should I reflect on my options or make a quick decision?"
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى تَفْكِيرٍ عَمِيقٍ فِي هَذَا الْمَوْضُوعِ.",
+        "meaning": "I need to think deeply about this matter."
+    },
+    {
+        "phrase": "عَلَيَّ أَنْ أَسْتَمِعَ لِصَوْتِي الدَّاخِلِي.",
+        "meaning": "I must listen to my inner voice."
+    },
+    {
+        "phrase": "هَلْ سَأَسْتَطِيعُ إِحْرَازَ التَّقَدُّمِ الَّذِي أُرِيدُهُ؟",
+        "meaning": "Will I be able to achieve the progress I want?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَتَمَسَّكَ بِأَهْدَافِي حَتَّى النِّهَايَةِ.",
+        "meaning": "I must stick to my goals until the end."
+    },
+    {
+        "phrase": "أُحَاوِلُ أَنْ أَكُونَ أَكْثَرَ مَرَاحًا فِي حَيَاتِي.",
+        "meaning": "I try to be more relaxed in my life."
+    },
+    {
+        "phrase": "مَا الَّذِي يُعَطِّلُنِي عَنْ إِحْرَازِ أَهْدَافِي؟",
+        "meaning": "What is preventing me from achieving my goals?"
+    },
+    {
+        "phrase": "عَلَيَّ أَنْ أَكُونَ صَادِقًا مَعَ نَفْسِي.",
+        "meaning": "I need to be honest with myself."
+    },
+    {
+        "phrase": "يُخَاطِرُ مَشْعَرِي بِالْخَطَرِ، وَلَكِنَّ عَلَيَّ أَنْ أَتَّخِذَ الْخُطْوَاتِ.",
+        "meaning": "My feelings are at risk, but I must take steps."
+    },
+    {
+        "phrase": "مَا الَّذِي يُعَزِّزُ إِرَادَتِي فِي هَذَا الْمَوْقِفِ؟",
+        "meaning": "What strengthens my will in this situation?"
+    },
+    {
+        "phrase": "عَلَيَّ أَنْ أُفَكِّرَ فِي عَوَاقِبِ أَفْعَالِي.",
+        "meaning": "I need to consider the consequences of my actions."
+    },
+    {
+        "phrase": "كَمْ هُوَ مُهِمٌّ أَنْ أُحَافِظَ عَلَى التَّفَاؤُلِ.",
+        "meaning": "How important it is to maintain optimism."
+    },
+    {
+        "phrase": "مَا هِيَ الدُّروسُ الَّتِي أَتَعَلَّمُهَا مِنَ الْخَطَأَاتِ؟",
+        "meaning": "What lessons am I learning from mistakes?"
+    },
+    {
+        "phrase": "فَشِلْتُ فِي اتِّبَاعِ هَذَا الرُّوتِينِ.",
+        "meaning": "I have failed to follow up on this routine."
+    },
+    {
+        "phrase": "هَلْ كَتَبْتُ يَوْمِيَّتِي الْيَوْمَ؟",
+        "meaning": "Did I write in my diary today?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُعَاوِدَ الِاهْتِمَامَ بِصِحَّتِي.",
+        "meaning": "I need to get back to caring about my health."
+    },
+    {
+        "phrase": "هَلْ أَفَطَرْتُ الصُّبْحَ؟",
+        "meaning": "Did I have breakfast this morning?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُعَزِّزَ تَارِيخِي الشَّخْصِي.",
+        "meaning": "I should enhance my personal history."
+    },
+    {
+        "phrase": "مَاذَا أَفْعَلُ إِذَا كَانَتْ لَدَيَّ صُعُوبَاتٌ فِي التَّنَظِيمِ؟",
+        "meaning": "What do I do if I have difficulties with organization?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُحَافِظَ عَلَى التَّرَكِيزِ فِي الْعَمَلِ.",
+        "meaning": "I need to maintain focus at work."
+    },
+    {
+        "phrase": "هَلْ تَذَكَّرْتُ أَنْ أَشْرَبَ الْمَاءَ كَافِيًا الْيَوْمَ؟",
+        "meaning": "Did I remember to drink enough water today?"
+    },
+    {
+        "phrase": "أَشْعُرُ أَنِّي أَحْتَاجُ إِلَى فَضَاءٍ لِلِتَّفَكُّرِ.",
+        "meaning": "I feel I need space to think."
+    },
+    {
+        "phrase": "مَتَى سَأَكُونُ أَكْثَرَ انضِبَاطًا فِي رَوتِينِي؟",
+        "meaning": "When will I be more disciplined in my routine?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَكُونَ أَكْثَرَ وِعْيًا بِوَقْتِي.",
+        "meaning": "I should be more aware of my time."
+    },
+    {
+        "phrase": "مَاذَا أَفْعَلُ إِذَا كَانَتْ مَشَاعِرِي مُتَضَارِبَةً؟",
+        "meaning": "What should I do if my feelings are conflicted?"
+    },
+    {
+        "phrase": "هَلْ أَحْتَاجُ إِلَى أَخْذِ فَسْحَةٍ مِنَ الْعَمَلِ؟",
+        "meaning": "Do I need to take a break from work?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَكُونَ صَادِقًا مَعَ نَفْسِي حَوْلَ إِحْسَاسِي.",
+        "meaning": "I need to be honest with myself about my feelings."
+    },
+    {
+        "phrase": "مَا هِيَ الأَشْيَاءُ الَّتِي أَحْتَاجُ إِلَى تَغْيِيرِهَا؟",
+        "meaning": "What are the things I need to change?"
+    },
+    {
+        "phrase": "هَلْ كَانَتْ قَرَارَاتِي صَائِبَةً الْيَوْمَ؟",
+        "meaning": "Were my decisions right today?"
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى مَسَاحةٍ لِتَجْمِيعِ أَفْكَارِي.",
+        "meaning": "I need space to gather my thoughts."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُفَكِّرَ فِي خُطَطِي لِلْمُسْتَقْبَلِ.",
+        "meaning": "I should think about my plans for the future."
+    },
+    {
+        "phrase": "مَاذَا أَفْعَلُ لِتَحْسِينِ مَزَاجِي؟",
+        "meaning": "What can I do to improve my mood?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُتَابِعَ أَحْلَامِي بِلَا تَسْوِيفٍ.",
+        "meaning": "I must pursue my dreams without procrastination."
+    },
+    {
+        "phrase": "وَاو، أَحْتَاجُ أَنْ أَتَحَدَّثَ فِي رَأْسِي بِاللُّغَةِ الْعَرَبِيَّةِ.",
+        "meaning": "Wow, I need to talk in my head in phrase."
+    },
+    {
+        "phrase": "أَنَا أَتَحَدَّثُ بِاللُّغَةِ الْإِنْجِلِيزِيَّةِ.",
+        "meaning": "I am talking in English."
+    },
+    {
+        "phrase": "لَا تَتَحَدَّثْ بِالْإِنْجِلِيزِيَّةِ، تَحَدَّثْ بِالْعَرَبِيَّةِ.",
+        "meaning": "Don't speak in English; speak in phrase."
+    },
+    {
+        "phrase": "كَانَ تَحَدُّثِي غَيْرَ وَاضِحٍ.",
+        "meaning": "My talk was not clear."
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى الثِّقَةِ فِي نَفْسِي.",
+        "meaning": "I need confidence in myself."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَعْمَلَ عَلَى تَحْسِينِ تَحَدُّثِي.",
+        "meaning": "I need to work on improving my speech."
+    },
+    {
+        "phrase": "لِمَاذَا أَشْعُرُ بِالْخَجَلِ عِندَ التَّحَدُّثِ؟",
+        "meaning": "Why do I feel shy when speaking?"
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى مَزِيدٍ مِنَ التَّمْرِينِ لِتَحَدُّثِ اللُّغَةِ الْعَرَبِيَّةِ.",
+        "meaning": "I need more practice to speak phrase."
+    },
+    {
+        "phrase": "مَاذَا سَأَقُولُ إِذا سُئِلْتُ؟",
+        "meaning": "What will I say if I'm asked?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُحَسِّنَ نُطْقِي لِلْكَلِمَاتِ.",
+        "meaning": "I need to improve my pronunciation of words."
+    },
+    {
+        "phrase": "مَا الَّذِي يُمكنُ أَنْ أَفْعَلَهُ لِكَي أَكُونَ أَوْضَحَ؟",
+        "meaning": "What can I do to be clearer?"
+    },
+    {
+        "phrase": "أَشْعُرُ أَنَّ لِيَ قُدْرَاتٍ عَلَى التَّحَدُّثِ بِالْعَرَبِيَّةِ.",
+        "meaning": "I feel I have the ability to speak phrase."
+    },
+    {
+        "phrase": "هَلْ يَجِبُ أَنْ أُعَزِّزَ ثِقَتِي؟",
+        "meaning": "Should I boost my confidence?"
+    },
+    {
+        "phrase": "لَا أُرِيدُ أَنْ أَشْعُرَ بِالْخَجَلِ أَكْثَرَ.",
+        "meaning": "I don't want to feel shy any longer."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَفْهَمَ كَيْفَ أَتَحَدَّثُ بِكَلَامٍ وَاضِحٍ.",
+        "meaning": "I need to understand how to speak clearly."
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى تَصْفِيَةِ أَفْكَارِي قَبْلَ التَّحَدُّثِ.",
+        "meaning": "I need to clarify my thoughts before speaking."
+    },
+    {
+        "phrase": "مَتَى سَأَشْعُرُ بِالْثِّقَةِ أَكْثَرَ؟",
+        "meaning": "When will I feel more confident?"
+    },
+    {
+        "phrase": "مَا الَّذِي أَسْتَطِيعُ أَنْ أَفْعَلَهُ لِتَحْقِيقِ أَحْلَامِي؟",
+        "meaning": "What can I do to achieve my dreams?"
+    },
+    {
+        "phrase": "أَشْعُرُ أَنَّ الحَيَاةَ تَجْرِي مِنْ بَيْنَ يَدَيَّ.",
+        "meaning": "I feel that life is slipping through my fingers."
+    },
+    {
+        "phrase": "هَلْ أَحَقَّقَتْ أَحْلَامِي أمْ أَخْفَقْتُ فِي ذَلِكَ؟",
+        "meaning": "Have I realized my dreams or have I failed at that?"
+    },
+    {
+        "phrase": "مَاذَا يُخَبِّئُ لِي الغَدُ؟",
+        "meaning": "What does tomorrow hold for me?"
+    },
+    {
+        "phrase": "لِمَاذَا أُحَارِبُ مَا بَيْنَ دَاخِلِي وَخَارِجِي؟",
+        "meaning": "Why am I fighting between my inner self and the outside world?"
+    },
+    {
+        "phrase": "هلْ سَأَظَلُّ قَائِمًا عَلى هَذِهِ الطَّرِيقَةِ؟",
+        "meaning": "Will I continue on this path?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَصْبِرَ، فَكُلُّ شَيْءٍ سَيَجِدُ طَرِيقَهُ.",
+        "meaning": "I must be patient; everything will find its way."
+    },
+    {
+        "phrase": "يَخْطُرُ فِي بَالِي أَنَّهُ لَا يُوجَدُ شَيْءٌ مِنَ الْخَطَأِ فِي التَّجَرُبَة.",
+        "meaning": "It crosses my mind that there is nothing wrong with experimentation."
+    },
+    {
+        "phrase": "مَاذَا أُرِيدُ مِنَ الحَيَاةِ، وَأَيْنَ أَسِيرُ؟",
+        "meaning": "What do I want from life, and where am I heading?"
+    },
+    {
+        "phrase": "أَشْعُرُ أَنَّ الطُّرُقَ تَتَشَعَّبُ أَمَامِي، وَأَيُّهُنَّ أَخْتَارُ؟",
+        "meaning": "I feel that the paths are branching out before me; which one do I choose?"
+    },
+    {
+        "phrase": "أَهْمَلْتُ رُوتِينِي الْيَوْمَ، مَا الَّذِي أَفْعَلُهُ؟",
+        "meaning": "I neglected my routine today; what should I do?"
+    },
+    {
+        "phrase": "هَلْ كَتَبْتُ يَوْمِيَاتِي الْيَوْمَ؟",
+        "meaning": "Did I write my diary today?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَتَعَلَّمَ مِنَ الأخْطَاءِ الَّتِي قُمْتُ بِهَا.",
+        "meaning": "I must learn from the mistakes I've made."
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى إِحْسَاسِ الِانْتِصَارِ عَلَى نَفْسِي.",
+        "meaning": "I need to feel the victory over myself."
+    },
+    {
+        "phrase": "كَيْفَ أُعَزِّزُ ثِقَتِي بِنَفْسِي؟",
+        "meaning": "How do I boost my self-confidence?"
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى إِعادةِ النَّظَرِ فِي قِيَمِي.",
+        "meaning": "I need to reconsider my values."
+    },
+    {
+        "phrase": "هلْ سَأَصِلُ إِلَى مَا أُرِيدُ؟",
+        "meaning": "Will I reach what I desire?"
+    },
+    {
+        "phrase": "مَاذَا أَفْعَلُ إِذَا كَانَتِ الْحَيَاةُ تُسَابِقُني؟",
+        "meaning": "What should I do if life is racing ahead of me?"
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى مُوَاجَهَةِ خَوَافِي قَلْبِي.",
+        "meaning": "I need to confront the fears of my heart."
+    },
+    {
+        "phrase": "هَلْ أَستَطِيعُ التَّخَلُّصَ مِنْ أَثَارِ الْمَاضِي؟",
+        "meaning": "Can I rid myself of the scars of the past?"
+    },
+    {
+        "phrase": "يَتَعَاقَبُ الْيَوْمُ وَاللَّيْلُ، وَلَكِنْ مَا زَالَتْ تَخَطَّيَاتِي تَطْرَحُ قُبَاحَتَهَا.",
+        "meaning": "Days and nights pass, but my transgressions still cast their ugliness."
+    },
+    {
+        "phrase": "كَيْفَ أُقَوِّي عَزِيمَتِي أَمَامَ أَفْكَارِي السَّلْبِيَّةِ؟",
+        "meaning": "How can I strengthen my resolve against my negative thoughts?"
+    },
+    {
+        "phrase": "أُحَاوِلُ إِيجَادَ ضَوءٍ فِي عَالَمٍ مُظْلِمٍ.",
+        "meaning": "I try to find light in a dark world."
+    },
+    {
+        "phrase": "هلْ أَنَا أَفْضَلُ أَمْ أَسْوَأُ مِنْ مَا كُنْتُ؟",
+        "meaning": "Am I better or worse than I used to be?"
+    },
+    {
+        "phrase": "كَمْ مِنَ الْأَحْلَامِ ذَهَبَتْ بِسَبَبِ الْخَوْفِ؟",
+        "meaning": "How many dreams have been lost because of fear?"
+    },
+    {
+        "phrase": "مَاذَا أَفْعَلُ لِأَجْعَلَ الأَيَّامَ تَعْمَلُ لَصَالَحِي؟",
+        "meaning": "What can I do to make the days work in my favor?"
+    },
+    {
+        "phrase": "لِيَكُنْ عَامِي حَضُورُ الْحَيَاةِ أَجْمَلَ مَا يُحَدِّثُ بَعْضَهُ بَعْضًا.",
+        "meaning": "Let my presence in life be the most beautiful thing that speaks to others."
+    }
+]

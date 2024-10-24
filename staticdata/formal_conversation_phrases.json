@@ -1,0 +1,346 @@
+[
+    {
+        "phrase": "السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّـهِ وَبَرَكَاتُهُ",
+        "meaning": "Peace be upon you and God's mercy and blessings."
+    },
+    {
+        "phrase": "كَيْفَ حَالُكُمْ الْيَوْمَ؟",
+        "meaning": "How are you today?"
+    },
+    {
+        "phrase": "أَشْكُرُكُمْ عَلَى دَعْوَتِكُمْ الْكَرِيمَةِ.",
+        "meaning": "Thank you for your kind invitation."
+    },
+    {
+        "phrase": "أَتَمَنَّى لَكُمْ كُلَّ التَّوْفِيقِ فِي مَسَاعِيكُمْ.",
+        "meaning": "I wish you all success in your endeavors."
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُنِي مُسَاعَدَتُكُمْ فِي أَيِّ شَيْءٍ؟",
+        "meaning": "Can I assist you with anything?"
+    },
+    {
+        "phrase": "أَنَا سَعِيدٌ جِدًّا بِالتَّوَاصُلِ مَعَكُمْ.",
+        "meaning": "I am very pleased to connect with you."
+    },
+    {
+        "phrase": "مِنَ الرَّائِعِ رُؤْيَةُ التَّطَوُّرَاتِ فِي مَشْرُوعِكُمْ.",
+        "meaning": "It's great to see the developments in your project."
+    },
+    {
+        "phrase": "أُودُّ أَنْ أُشَارِكَكُمْ بَعْضَ الْأَفْكَارِ حَوْلَ هَذَا الْمَوْضُوعِ.",
+        "meaning": "I would like to share some thoughts on this topic."
+    },
+    {
+        "phrase": "بَارَكَ اللَّـهُ فِي جُهُودِكُمْ.",
+        "meaning": "May God bless your efforts."
+    },
+    {
+        "phrase": "أَعْتَذِرُ عَنْ التَّأْخِيرِ فِي الرَّدِّ.",
+        "meaning": "I apologize for the delay in my response."
+    },
+    {
+        "phrase": "أَتَطَلَّعُ إِلَى الْعَمَلِ مَعَكُمْ فِي الْمُسْتَقْبَلِ.",
+        "meaning": "I look forward to working with you in the future."
+    },
+    {
+        "phrase": "الْعَمَلُ الْجَمَاعِيُّ هُوَ مِفْتَاحُ النَّجَاحِ.",
+        "meaning": "Teamwork is the key to success."
+    },
+    {
+        "phrase": "إِنَّهَا فُرْصَةٌ رَائِعَةٌ لِلْتَّعَلُّمِ وَالنُّمُوِّ.",
+        "meaning": "It is a great opportunity for learning and growth."
+    },
+    {
+        "phrase": "أَتَمَنَّى أَنْ نَلْتَقِي قَرِيبًا لِمُنَاقَشَةِ الْمَزِيدِ مِنَ التَّفَاصِيلِ.",
+        "meaning": "I hope we can meet soon to discuss further details."
+    },
+    {
+        "phrase": "شُكْرًا لَكُمْ عَلَى هَذَا الْعَرْضِ الْمُتَمَيِّزِ.",
+        "meaning": "Thank you for this outstanding presentation."
+    },
+    {
+        "phrase": "أُقَدِّرُ شَغَفَكُمْ لِهَذَا الْمَجَالِ.",
+        "meaning": "I appreciate your passion for this field."
+    },
+    {
+        "phrase": "دَعُونَا نُوَاصِلَ هَذِهِ الْمُنَاقَشَةَ فِي وَقْتٍ لَاحِقٍ.",
+        "meaning": "Let’s continue this discussion later."
+    },
+    {
+        "phrase": "سَأَكُونُ سَعِيدًا بِمُشَارَكَةِ تَجَارِبِي مَعَكُمْ.",
+        "meaning": "I would be happy to share my experiences with you."
+    },
+    {
+        "phrase": "تَقَبَّلُوا تَحِيَّاتِي الطَّيِّبَةَ.",
+        "meaning": "Please accept my kind regards."
+    },
+    {
+        "phrase": "أَتَقَدَّمُ لَكُمْ بِكُلِّ الشُّكْرِ عَلَى إِتَاحَةِ هَذِهِ الفُرْصَةِ، وَأَتَمَنَّى أَنْ تَكُونَ النَّتَائِجُ مُفِيدَةً لِلْجَمِيعِ.",
+        "meaning": "I extend my sincere thanks to you for this opportunity, and I hope the outcomes will benefit everyone."
+    },
+    {
+        "phrase": "شَكْرًا لِتَنْظِيمِكُم هَذَا المُؤْتَمَرِ، جَعَلَهُ اللهُ فِي مِيزَانِ حَسَنَاتِكُم.",
+        "meaning": "Thank you for organizing this conference; may Allah place it in the balance of your good deeds."
+    },
+    {
+        "phrase": "أَتَمَنَّى أَنْ نَسْتَمِرَّ فِي التَّعَاوُنِ وَأَنْ يَنْتَفِعَ كُلُّ شَخْصٍ بِمَا تَعَلَّمْنَاهُ الْيَوْمَ.",
+        "meaning": "I hope we continue collaborating and that everyone benefits from what we’ve learned today."
+    },
+    {
+        "phrase": "جَزَاكُمُ اللهُ خَيْرًا عَلَى جُهُودِكُم الْمُبَارَكَةِ، وَنَسْأَلُ اللهَ أَنْ يُوَفِّقَكُمْ لِكُلِّ خَيْرٍ.",
+        "meaning": "May Allah reward you for your blessed efforts, and we ask Allah to grant you success in all goodness."
+    },
+    {
+        "phrase": "بَارَكَ اللهُ فِي الطَّعَامِ وَرَزَقَكُم حَلَالًا طَيِّبًا.",
+        "meaning": "May Allah bless this food and grant you pure and lawful provisions."
+    },
+    {
+        "phrase": "جَزَاكُمُ اللهُ خَيْرًا عَلَى حُسْنِ الاسْتِضَافَةِ، طَعَامُكُم لَذِيذٌ، بَارَكَ اللهُ فِيكُمْ.",
+        "meaning": "May Allah reward you for your hospitality; your food is delicious. May Allah bless you."
+    },
+    {
+        "phrase": "نَحْمَدُ اللهَ عَلَى مَا رَزَقَنَا، جَعَلَهُ اللهُ قُوتًا طَيِّبًا وَبَارَكَ فِيهِ.",
+        "meaning": "We thank Allah for what He has provided us; may He make it a blessed and wholesome sustenance."
+    },
+    {
+        "phrase": "سَعِدْنَا بِمُشَارَكَتِكُمْ لِطَعَامِنَا، نَسْأَلُ اللهَ أَنْ يَجْمَعَنَا دَائِمًا عَلَى الخَيْرِ.",
+        "meaning": "We are delighted to have shared this meal with you, and we ask Allah to always unite us in goodness."
+    },
+    {
+        "phrase": "بَارَكَ اللهُ لَكُمَا وَبَارَكَ عَلَيْكُمَا وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ.",
+        "meaning": "May Allah bless you both, shower blessings upon you, and unite you in goodness."
+    },
+    {
+        "phrase": "أَتَقَدَّمُ بِأَحَرِّ التَّهَانِي لِلْعَرِيسَيْنِ، نَسْأَلُ اللهَ أَنْ يُتِمَّ لَكُمَا السَّعَادَةَ وَالرِّضَا.",
+        "meaning": "I extend my warmest congratulations to the bride and groom. May Allah complete your happiness and contentment."
+    },
+    {
+        "phrase": "نَحْمَدُ اللهَ عَلَى تَمَامِ هَذَا النِّكَاحِ، جَعَلَهُ اللهُ زَوَاجًا مُبَارَكًا.",
+        "meaning": "We praise Allah for completing this marriage. May He make it a blessed union."
+    },
+    {
+        "phrase": "تَمَنَّيَاتِنَا لَكُمَا بِحَيَاةٍ سَعِيدَةٍ وَذُرِّيَّةٍ صَالِحَةٍ، وَبَارَكَ اللهُ فِي حَيَاتِكُم.",
+        "meaning": "Our best wishes for a happy life and righteous offspring; may Allah bless your lives."
+    },
+    {
+        "phrase": "جَمْعَتْنَا فِي هَذَا الْيَوْمِ لِنَبْقَى فِي دَائِرَةِ الوِدِّ وَالتَّرَابُطِ، بَارَكَ اللهُ فِيكُم جَمِيعًا.",
+        "meaning": "We gather today to remain within the circle of affection and unity; may Allah bless you all."
+    },
+    {
+        "phrase": "سَعِدْنَا بِلِقَائِكُمْ وَنَسْأَلُ اللهَ أَنْ يُدِيمَ عَلَيْنَا نِعْمَةَ التَّوَادِّ وَالتَّرَاحُمِ.",
+        "meaning": "We are pleased to meet you, and we ask Allah to continue to bless us with affection and compassion."
+    },
+    {
+        "phrase": "نَرْجُو أَنْ تَتَجَدَّدَ لِقَاءَاتُنَا دَائِمًا فِي ظِلِّ طَاعَةِ اللهِ وَحُبِّهِ.",
+        "meaning": "We hope to always renew our gatherings under the shade of Allah’s obedience and love."
+    },
+    {
+        "phrase": "لَقَاءٌ مُمْتِعٌ جِدًّا، نَسْأَلُ اللهَ أَنْ يَكُونَ فِي مِيزَانِ حَسَنَاتِنَا وَيُبَارِكَنَا جَمِيعًا.",
+        "meaning": "It was a truly enjoyable gathering; may Allah place it in the balance of our good deeds and bless us all."
+    },
+    {
+        "phrase": "سَرَّنِي التَّعَرُّفُ عَلَيْكُم وَنَتَطَلَّعُ إِلَى تَعَاوُنٍ مَشْتَرَكٍ فِي الْمُسْتَقْبَلِ، إِنْ شَاءَ اللهُ.",
+        "meaning": "I am pleased to meet you, and we look forward to future collaboration, Insha'Allah."
+    },
+    {
+        "phrase": "جَزَاكُمُ اللهُ خَيْرًا عَلَى نَصَائِحِكُم وَتَوْجِيهَاتِكُم، سَأَحْرِصُ عَلَى تَطْبِيقِهَا.",
+        "meaning": "May Allah reward you for your advice and guidance; I will make sure to apply it."
+    },
+    {
+        "phrase": "سَعِدْتُ بِلِقَائِكُم، وَأَتَمَنَّى أَنْ تَكُونَ لَنَا فُرَصَةٌ أُخْرَى لِلتَّعَاوُنِ قَرِيبًا.",
+        "meaning": "It was a pleasure meeting you, and I hope we have another opportunity to work together soon."
+    },
+    {
+        "phrase": "إِنَّ هَذَا اللِّقَاءَ قَدْ أَثْرَى مَعْرِفَتِي وَأَتَمَنَّى تَكْرَارَهُ لِلْفَائِدَةِ.",
+        "meaning": "This meeting has enriched my knowledge, and I hope to repeat it for continued benefit."
+    },
+    {
+        "phrase": "تَفَضَّلْ بِتَقْدِيمِ نَصَائِحِكَ لِي، فَأَنَا دَائِمًا أَسْتَفِيدُ مِنْ خِبْرَتِكُمْ.",
+        "meaning": "Please share your advice with me; I always benefit from your experience."
+    },
+    {
+        "phrase": "مَعَ احْتِرَامِي الشَّدِيدِ لِرَأْيِكَ، أَرَى أَنَّهُ يُمْكِنُنَا التَّوَصُّلُ إِلَى حَلٍّ وَسَطٍ.",
+        "meaning": "With all due respect, I believe we can reach a middle ground."
+    },
+    {
+        "phrase": "يُشَرِّفُنِي أَنْ أَتَعَلَّمَ مِنْ نَصَائِحِكُمْ وَأَخُذَ بِهِ فِي حَيَاتِي.",
+        "meaning": "It’s an honor to learn from your advice and apply it in my life."
+    },
+    {
+        "phrase": "أَتَمَنَّى لَكُم طُولَ العُمْرِ وَصِحَّةً جَيِّدَةً، شُكْرًا لِدَعْمِكُم الدَّائِمِ.",
+        "meaning": "I wish you long life and good health; thank you for your constant support."
+    },
+    {
+        "phrase": "أَنَا مُتَمَسِّكٌ بِنَصَائِحِكُمْ وَأَسْعَى جَاهِدًا لِتَطْبِيقِهَا.",
+        "meaning": "I hold on to your advice and strive hard to apply it."
+    },
+    {
+        "phrase": "أَتَمَنَّى أَنْ أَكُونَ عِنْدَ حُسْنِ ظَنِّكُمْ وَأَنْ أَحْقِّقَ طُمُوحَكُمْ.",
+        "meaning": "I hope to meet your expectations and fulfill your aspirations."
+    },
+    {
+        "phrase": "شُكْرًا جَزِيلًا لِدَعْمِكُم فِي هَذَا المَشْرُوعِ.",
+        "meaning": "Thank you very much for your support on this project."
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُنِي التَّوَاصُلُ مَعَكُمْ لِمُرَاجَعَةِ المَلَفِّ قَبْلَ التَّسْلِيمِ؟",
+        "meaning": "Could I connect with you to review the file before submission?"
+    },
+    {
+        "phrase": "أَنَا فِي خِدْمَتِكُم لِأَيِّ مَسَاعِدَةٍ تَحْتَاجُونَهَا.",
+        "meaning": "I am at your service for any assistance you need."
+    },
+    {
+        "phrase": "سَأُرَاجِعُ المُتَطَلَّبَاتِ مُجَدَّدًا لِلتَّأَكُّدِ مِنْ تَطَابُقِهَا مَعَ المَشْرُوعِ.",
+        "meaning": "I will review the requirements again to ensure they align with the project."
+    },
+    {
+        "phrase": "تَمَّ بِنَجَاحٍ وَتَمَّتْ كُلُّ الخُطْوَاتِ كَمَا هُوَ مَطْلُوبٌ.",
+        "meaning": "It was successful, and all steps were completed as required."
+    },
+    {
+        "phrase": "أَتَطَلَّعُ إِلَى تَعَاوُنٍ مِثْمَرٍ مَعَ فَرِيقِكُمْ.",
+        "meaning": "I look forward to productive collaboration with your team."
+    },
+    {
+        "phrase": "أُفَكِّرُ فِي تَعَلُّمِ لُغَةِ رَسْتْ لِتَعْزِيزِ الكَفَاءَةِ وَالأَدَاءِ.",
+        "meaning": "I am considering learning Rust to enhance efficiency and performance."
+    },
+    {
+        "phrase": "الأَدَاءُ هُوَ المِفْتَاحُ لِنَجَاحِ أَيِّ مَشْرُوعٍ بَرْمَجِيٍّ.",
+        "meaning": "Performance is key to the success of any software project."
+    },
+    {
+        "phrase": "كَيْفَ يُمْكِنُنِي تَحْسِينُ أَدَاءِ الدَّالَّةِ A؟",
+        "meaning": "How can I improve the performance of function A?"
+    },
+    {
+        "phrase": "هَلْ يَجِبُ عَلَيْنَا الِانْتِقَالُ إِلَى اسْتِخْدَامِ كُومبُوز؟",
+        "meaning": "Should we migrate to using Compose?"
+    },
+    {
+        "phrase": "أُفَكِّرُ فِي إِعَادَةِ بِنَاءِ جُزْءٍ مِنَ المَشْرُوعِ لِتَحْسِينِ الأَدَاءِ.",
+        "meaning": "I am considering refactoring a part of the project to improve performance."
+    },
+    {
+        "phrase": "هَلْ جَرَّبْتُمْ اسْتِخْدَامَ Async/await لِتَحْسِينِ الأَدَاءِ؟",
+        "meaning": "Have you tried using Async/await to improve performance?"
+    },
+    {
+        "phrase": "مِنَ الأَفْضَلِ مُرَاجَعَةُ الشِّيفْرَةِ بِاسْتِمْرَارٍ لِلْحِفَاظِ عَلَى الكَفَاءَةِ.",
+        "meaning": "It is better to review code continuously to maintain efficiency."
+    },
+    {
+        "phrase": "أَوَدُّ مَعْرِفَةَ آرَائِكُمْ حَوْلَ اسْتِخْدَامِ المَايْكْرُوسِيرْفِيسِ في هَذَا المَشْرُوعِ.",
+        "meaning": "I would like to know your opinions on using Microservices in this project."
+    },
+    {
+        "phrase": "مَا هِيَ أَفْضَلُ الأَدَوَاتِ لِقِيَاسِ أَدَاءِ الشِّيفْرَةِ البَرْمَجِيَّةِ؟",
+        "meaning": "What are the best tools to measure code performance?"
+    },
+    {
+        "phrase": "تُعْتَبَرُ اللُّغَةُ النَّظِيفَةُ وَالبَسِيطَةُ جُزْءًا مُهِمًّا مِنَ البَرْمَجَةِ الفَعَّالَةِ.",
+        "meaning": "Clean and simple code is an essential part of effective programming."
+    },
+    {
+        "phrase": "الِانْتِقَالُ إِلَى كُوتْلِين مُلْتِيبْلَاتْفُورْم يَبْدُو كَخِيَارٍ مُثِيرٍ لِلِاهْتِمَامِ.",
+        "meaning": "Migrating to Kotlin Multiplatform seems like an interesting option."
+    },
+    {
+        "phrase": "تَحْدِيثُ المَشْرُوعِ لِاسْتِخْدَامِ أَحْدَثِ مَكْتَبَاتِ البَرْمَجَةِ يُمْكِنُ أَنْ يَكُونَ لَهُ تَأْثِيرٌ إِيجَابِيٌّ.",
+        "meaning": "Updating the project to use the latest libraries can have a positive impact."
+    },
+    {
+        "phrase": "هَلْ هُنَاكَ بَدَائِلُ أَكْثَرُ كَفَاءَةً لِهَذِهِ الطَّرِيقَةِ البَرْمَجِيَّةِ؟",
+        "meaning": "Are there more efficient alternatives to this approach?"
+    },
+    {
+        "phrase": "مَا هِيَ أَفْضَلُ المُمارَسَاتِ لِكِتَابَةِ شِيفْرَةٍ مَرِنَةٍ وَقَابِلَةٍ لِلتَّوْسِيعِ؟",
+        "meaning": "What are the best practices for writing flexible and scalable code?"
+    },
+    {
+        "phrase": "أَبْحَثُ عَنْ طَرِيقَةٍ لِتَحْسِينِ اسْتِخْدَامِ الذَّاكِرَةِ في هَذَا المَشْرُوعِ.",
+        "meaning": "I am looking for a way to improve memory usage in this project."
+    },
+    {
+        "phrase": "شُكْرًا عَلَى مُشَارَكَةِ هَذِهِ الحُلُولِ البَرْمَجِيَّةِ الفَعَّالَةِ!",
+        "meaning": "Thanks for sharing these effective coding solutions!"
+    },
+    {
+        "phrase": "قَرَأْتُ مُؤَخَّرًا عَنْ أَنْماطِ التَّصْمِيمِ وَكَيْفَ يُمْكِنُ أَنْ تُحَسِّنَ مِنْ جَوْدَةِ الشِّيفْرَةِ.",
+        "meaning": "I recently read about design patterns and how they can improve code quality."
+    },
+    {
+        "phrase": "هَلْ اسْتَخْدَمْتُمْ مُؤَخَّرًا تَقْنِيَاتِ تَحْسِينِ أَدَاءِ قَوَاعِدِ البَيَانَاتِ؟",
+        "meaning": "Have you recently used techniques for optimizing database performance?"
+    },
+    {
+        "phrase": "التَّوْثِيقُ الجَيِّدُ يُسْهِمُ فِي تَسْهِيلِ التَّعَاوُنِ ضِمْنَ الفَرِيقِ.",
+        "meaning": "Good documentation contributes to easier collaboration within the team."
+    },
+    {
+        "phrase": "يُسْعِدُنِي أَنْ أَرَى مِثْلَ هَذَا التَّفَاعُلِ الإِيجَابِيِّ وَالمُفِيدِ حَوْلَ مَوْضُوعَاتِ البَرْمَجَةِ!",
+        "meaning": "I am pleased to see such positive and helpful interaction around programming topics!"
+    },
+    {
+        "phrase": "هَلْ تَعْتَقِدُ أَنَّ الِانْتِقَالَ إِلَى بِنْيَةٍ جَدِيدَةٍ سَيُحَسِّنُ مِنْ أَدَاءِ التَّطْبِيقِ؟",
+        "meaning": "Do you think migrating to a new architecture will improve app performance?"
+    },
+    {
+        "phrase": "أَبْحَثُ عَنْ نَصَائِحَ لِتَحْسِينِ الأَدَاءِ ضِمْنَ بِيئَةٍ مَحْدُودَةِ المَوَارِدِ.",
+        "meaning": "I am looking for tips to optimize performance in a resource-constrained environment."
+    },
+    {
+        "phrase": "التَّحْسِينَاتُ المُسْتَمِرَّةُ عَلَى الشِّيفْرَةِ تُسْهِمُ فِي الحِفَاظِ عَلَى الأَدَاءِ مَعَ مُرُورِ الوَقْتِ.",
+        "meaning": "Continuous code improvements help maintain performance over time."
+    },
+    {
+        "phrase": "تَمَّ تَسْلِيمُ كُلِّ التَّحْدِيثَاتِ وَأَنَا بِنِتِظَارِ مَلَاحِظَاتِكُمْ.",
+        "meaning": "All updates have been submitted, and I'm awaiting your feedback."
+    },
+    {
+        "phrase": "لِنَتَأَكَّدَ أَنَّنَا مُتَّفِقُونَ عَلَى جَدْوَلِ الزَّمَنِيّ.",
+        "meaning": "Let’s ensure we’re aligned on the timeline."
+    },
+    {
+        "phrase": "تَمَّ تَحْدِيدُ مَوْعِدٍ لِلِاجْتِمَاعِ لِيَوْمِ غَدٍ. هَلْ يَنَاسِبُكَ الوَقْتُ؟",
+        "meaning": "The meeting has been scheduled for tomorrow. Does the timing work for you?"
+    },
+    {
+        "phrase": "بِسَبَبِ فَارِقِ الوَقْتِ، سَأَكُونُ مُتَاحًا فِي الوَقْتِ المُحَدَّدِ لَكُمْ.",
+        "meaning": "Due to the time difference, I will be available at the specified time for you."
+    },
+    {
+        "phrase": "هَلْ تَسْتَطِيعُونَ إِرْسَالَ التَّحْدِيثَاتِ قَبْلَ نِهَايَةِ اليَوْمِ بِوَقْتِكُمْ؟",
+        "meaning": "Could you send the updates before the end of your day?"
+    },
+    {
+        "phrase": "بِوَضْعِ بَعْضِ الِاعْتِبَارَاتِ لاِحْتِيَاجَاتِ المَشْرُوعِ، يُرْجَى التَّوَاصُلُ مَعِي لِمَشْكِلَةِ تَحْلِيلٍ مَا.",
+        "meaning": "Considering project needs, please reach out for any issue analysis."
+    },
+    {
+        "phrase": "أَنَا مَسْرُورٌ بِالمُشَارَكَةِ فِي هَذَا المَشْرُوعِ، فَهَذِهِ فُرْصَةٌ كَبِيرَةٌ لِلتَّعَلُّمِ.",
+        "meaning": "I'm glad to be part of this project; it's a great learning opportunity."
+    },
+    {
+        "phrase": "أَرْجُو أَنْ تَكُونَ كُلُّ النِّقَاطِ وَاضِحَةً، وَلَكِنْ سَأَسْتَفْسِرُ إِذَا وَاجَهْتُ أَيَّ سُؤَالٍ.",
+        "meaning": "I hope all points are clear, but I will ask if I have any questions."
+    },
+    {
+        "phrase": "هَلْ يَمْكِنُنِي أَنْ أَتَشَارَكُ مَعَكُمْ رَأْيًا لِتَحْسِينِ المَشْرُوعِ؟",
+        "meaning": "Can I share a suggestion for improving the project?"
+    },
+    {
+        "phrase": "أَنَا أَتَفَقُ مَعَكُمْ كُلِّيًّا، وَسَأَعْمَلُ بِكُلِّ جُهْدٍ لِلتَّطَوُّرِ فِي هَذَا المَجَالِ.",
+        "meaning": "I completely agree with you and will work hard to improve in this area."
+    },
+    {
+        "phrase": "بَحَثْتُ فِي بَعْضِ المَصَادِرِ الحَوْلِيَّةِ، وَقَدْ أَكْتَشِفُ نِقَاطًا جَدِيدَةً.",
+        "meaning": "I’ve researched some sources and might discover new points."
+    },
+    {
+        "phrase": "تُعْتَبَرُ هَذِهِ الفُرْصَةُ شَرَفًا وَمَكْسَبًا لِي فِي الحَيَاةِ العَمَلِيَّةِ.",
+        "meaning": "This opportunity is an honor and an asset to my career."
+    }
+]

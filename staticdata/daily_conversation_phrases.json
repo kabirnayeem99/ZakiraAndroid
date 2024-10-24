@@ -1,0 +1,466 @@
+[
+    {
+        "phrase": "أَهْلًا وَسَهْلًا",
+        "meaning": "Welcome"
+    },
+    {
+        "phrase": "كَيْفَ حَالُكَ؟",
+        "meaning": "How are you?"
+    },
+    {
+        "phrase": "أَنَا بِخَيْرٍ، شُكْرًا",
+        "meaning": "I'm good, thank you"
+    },
+    {
+        "phrase": "مَا اسْمُكَ؟",
+        "meaning": "What is your name?"
+    },
+    {
+        "phrase": "أَنَا اسْمِي...",
+        "meaning": "My name is..."
+    },
+    {
+        "phrase": "مِنْ أَيْنَ أَنتَ؟",
+        "meaning": "Where are you from?"
+    },
+    {
+        "phrase": "أَنَا مِنَ...",
+        "meaning": "I am from..."
+    },
+    {
+        "phrase": "مَا الْوَقْتُ؟",
+        "meaning": "What time is it?"
+    },
+    {
+        "phrase": "مَا شَأْنُكَ؟",
+        "meaning": "Whats your concern?"
+    },
+    {
+        "phrase": "مَعَ السَّلاَمَة",
+        "meaning": "Goodbye"
+    },
+    {
+        "phrase": "إِلَى اللِّقَاءِ",
+        "meaning": "See you later"
+    },
+    {
+        "phrase": "شَكَرًا جَزِيلًا",
+        "meaning": "Thank you very much"
+    },
+    {
+        "phrase": "عَفْوًا",
+        "meaning": "You're welcome"
+    },
+    {
+        "phrase": "أُحِبُّ هَذَا",
+        "meaning": "I like this"
+    },
+    {
+        "phrase": "هَلْ تَسْتَطِيعُ مُسَاعَدَتِي؟",
+        "meaning": "Can you help me?"
+    },
+    {
+        "phrase": "أَسْتَأْذِنُكَ",
+        "meaning": "Excuse me"
+    },
+    {
+        "phrase": "مَكَانُكُمْ هُنَا جَمِيلٌ",
+        "meaning": "Your place is beautiful"
+    },
+    {
+        "phrase": "هَلْ أَنْتَ جَائِعٌ؟",
+        "meaning": "Are you hungry?"
+    },
+    {
+        "phrase": "نَعَمْ، أَنَا جَائِعٌ",
+        "meaning": "Yes, I am hungry"
+    },
+    {
+        "phrase": "أَيْنَ الْمَطْعَمُ؟",
+        "meaning": "Where is the restaurant?"
+    },
+    {
+        "phrase": "هَلْ تُرِيدُ شَيْئًا؟",
+        "meaning": "Do you want anything?"
+    },
+    {
+        "phrase": "لا شَيْءَ، شُكْرًا",
+        "meaning": "Nothing, thank you"
+    },
+    {
+        "phrase": "مَتَى نَجْتَمِعُ؟",
+        "meaning": "When shall we meet?"
+    },
+    {
+        "phrase": "لَكَ التَّحِيَّة",
+        "meaning": "Best regards"
+    },
+    {
+        "phrase": "أَحَدٌ فِي الْمَنْزِلِ؟",
+        "meaning": "Is anyone home?"
+    },
+    {
+        "phrase": "مَا الْأَخْبَارُ؟",
+        "meaning": "What's the news?"
+    },
+    {
+        "phrase": "أَنَا أُشَاهِدُ التِّلْفَازَ",
+        "meaning": "I am watching TV"
+    },
+    {
+        "phrase": "هَلْ تَحُبُّ الْقَهْوَةَ؟",
+        "meaning": "Do you like coffee?"
+    },
+    {
+        "phrase": "نَعَمْ، أُحِبُّهَا",
+        "meaning": "Yes, I love it"
+    },
+    {
+        "phrase": "أَيْنَ السُّوقُ؟",
+        "meaning": "Where is the market?"
+    },
+    {
+        "phrase": "مَا رَأْيُكَ فِي ذَٰلِكَ؟",
+        "meaning": "What do you think about that?"
+    },
+    {
+        "phrase": "عَلَيَّ الذَّهابُ الآنَ",
+        "meaning": "I have to go now"
+    },
+    {
+        "phrase": "مَا زَالَ الْوَقْتُ مُبَكِّرًا",
+        "meaning": "It's still early"
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى قَائِمَةٍ",
+        "meaning": "I need a menu"
+    },
+    {
+        "phrase": "يَجِبُ عَلَيْكَ أَنْ تَجْتَازَ الامْتِحَانَ",
+        "meaning": "You need to pass the exam"
+    },
+    {
+        "phrase": "مَاذَا تَفْعَلُ الْيَوْمَ؟",
+        "meaning": "What are you doing today?"
+    },
+    {
+        "phrase": "أُعَانِي مِنَ الزُّحَامِ",
+        "meaning": "I'm stuck in traffic"
+    },
+    {
+        "phrase": "مَا الْمُفَاجَأَةُ الَّتِي أَعَدَّهَا؟",
+        "meaning": "What's the surprise you prepared?"
+    },
+    {
+        "phrase": "أُحِبُّ السَّفَرَ",
+        "meaning": "I love traveling"
+    },
+    {
+        "phrase": "مَتى تَغْدُو إلى المَدْرَسَةِ؟",
+        "meaning": "When do you go to school?"
+    },
+    {
+        "phrase": "لِمَاذَا أَنتَ حَزِينٌ؟",
+        "meaning": "Why are you sad?"
+    },
+    {
+        "phrase": "لَكِنَّني أَشْعُرُ بِالسُّرُورِ الآنَ",
+        "meaning": "But I feel happy now"
+    },
+    {
+        "phrase": "هَلْ تَذْكُرُ حَلَاتِ السَّيَّارَةِ؟",
+        "meaning": "Do you remember the car parts?"
+    },
+    {
+        "phrase": "أَيْنَ تَسْكُنُ؟",
+        "meaning": "Where do you live?"
+    },
+    {
+        "phrase": "أَسْكُنُ فِي شَقَّةٍ صَغِيرَةٍ",
+        "meaning": "I live in a small apartment"
+    },
+    {
+        "phrase": "هَلْ أَنْتَ مُتَشَوِّقٌ لِلْمُؤَتَمَرِ؟",
+        "meaning": "Are you excited for the conference?"
+    },
+    {
+        "phrase": "مَتى سَتَحْتَفِلُ بِيَوْمِ مِيلَادِكَ؟",
+        "meaning": "When will you celebrate your birthday?"
+    },
+    {
+        "phrase": "مَتى سَيَأْتِي الْحَافِلَةُ؟",
+        "meaning": "When will the bus come?"
+    },
+    {
+        "phrase": "كَمْ تَذْهَبُ تَذْكَرَةُ الْحَافِلَةِ؟",
+        "meaning": "What is the bus fare?"
+    },
+    {
+        "phrase": "رَكِبْتُ الْحَافِلَةَ مِنْ مَكَانٍ أ إلى مَكَانٍ ب",
+        "meaning": "I have ridden the bus from place A to place B."
+    },
+    {
+        "phrase": "لَا يُوجَدُ نَقْلٌ عَامٌ",
+        "meaning": "No public transport is found."
+    },
+    {
+        "phrase": "مَا ثَمَنُ هَذَا الشَّيْءِ؟",
+        "meaning": "What is the price of this thing?"
+    },
+    {
+        "phrase": "أَحْتَاجُ أَنْ أَذْهَبَ إِلَى الْبَازَارِ",
+        "meaning": "I need to go to the bazaar."
+    },
+    {
+        "phrase": "أَيْنَ مَحَطَّةُ الْحَافِلَاتِ؟",
+        "meaning": "Where is the bus station?"
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُكَ إِخْبَارِي عَنْ مَوَاعِيدِ الْحَافِلَاتِ؟",
+        "meaning": "Can you tell me the bus schedule?"
+    },
+    {
+        "phrase": "أَشْتَرِي تَذْكَرَةً لِلْحَافِلَةِ",
+        "meaning": "I want to buy a ticket for the bus."
+    },
+    {
+        "phrase": "كَمْ يُكَلِّفُ الذَّهَابُ إِلَى الْبَازَارِ؟",
+        "meaning": "How much does it cost to go to the bazaar?"
+    },
+    {
+        "phrase": "مَتى تَغَادِرُ الْحَافِلَةُ؟",
+        "meaning": "When does the bus leave?"
+    },
+    {
+        "phrase": "هَلْ تَحْتَاجُ إِلَى الْمُسَاعَدَةِ فِي الإِجَازَةِ؟",
+        "meaning": "Do you need help with the schedule?"
+    },
+    {
+        "phrase": "أَعْطِنِي الْهَاتِفَ",
+        "meaning": "Give me the phone."
+    },
+    {
+        "phrase": "اِحْضِرْ لِي كَأْسًا مِنَ الْمَاءِ",
+        "meaning": "Bring me a glass of water."
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُكَ شَحْنُ الْهَاتِفِ مِنْ فَضْلِكَ؟",
+        "meaning": "Can you please charge the phone?"
+    },
+    {
+        "phrase": "أَيْنَ نَظَّارَتِي؟",
+        "meaning": "Where are my spectacles?"
+    },
+    {
+        "phrase": "اللَّاب تَوْب لَيْسَ لَهُ شَحْنٌ",
+        "meaning": "The laptop has no charge."
+    },
+    {
+        "phrase": "كَمْ مِنَ الْمَالِ تَحْتَاجُ؟",
+        "meaning": "How much money do you need?"
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى قَلَمٍ",
+        "meaning": "I need a pen."
+    },
+    {
+        "phrase": "مَتَى سَتَأْتِي إِلَى الْمَنْزِلِ؟",
+        "meaning": "When will you come home?"
+    },
+    {
+        "phrase": "أُرِيدُ أَنْ أَشْتَرِي كُتُبًا",
+        "meaning": "I want to buy some books."
+    },
+    {
+        "phrase": "هل يمكن أن توصلني إلى المحطة؟",
+        "meaning": "Can you take me to the station?"
+    },
+    {
+        "phrase": "أَيْنَ هَاتِفِي؟",
+        "meaning": "Where is my phone?"
+    },
+    {
+        "phrase": "أَرْجُوكَ، أَغْلِقْ النَّافِذَةَ",
+        "meaning": "Please close the window."
+    },
+    {
+        "phrase": "أَحْتَاجُ إِلَى مَسَاعَدَتِكَ",
+        "meaning": "I need your help."
+    },
+    {
+        "phrase": "هَلْ لَدَيْكَ مَفَاتِيحِي؟",
+        "meaning": "Do you have my keys?"
+    },
+    {
+        "phrase": "مَتَى تَكُونُ وَقْتَ الْغَدَاءِ؟",
+        "meaning": "What time is lunch?"
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُكَ أَنْ تَشْغَلَ النُّورَ؟",
+        "meaning": "Can you turn on the light?"
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُكَ أَنْ تُشَغِّلَ الْمُرَوحَةَ؟",
+        "meaning": "Can you turn on the fan?"
+    },
+    {
+        "phrase": "أَرْجُوكَ، أَغْلِقْ الْبَابَ",
+        "meaning": "Please close the door."
+    },
+    {
+        "phrase": "اقْرَأِ الْكِتَابَ الْجَدِيدَ",
+        "meaning": "Read the new book."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُنْهِيَ هَذَا الْعَمَلَ قَبْلَ السَّاعَةِ الْوَاحِدَةِ صَبَاحًا",
+        "meaning": "I should finish this work by 1 AM."
+    },
+    {
+        "phrase": "أَحْتَاجُ أَنْ أُعْطِيَ 10 ضَغْطَاتٍ بَعْدَ كُلِّ صَلَاةٍ",
+        "meaning": "I need to do 10 push-ups after each prayer."
+    },
+    {
+        "phrase": "عَمَلٌ جَيِّدٌ، ابْقَ عَلَى هَذَا النَّمَطِ",
+        "meaning": "Good job. Keep it up."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُعَدِّلَ مَوَاقِيتِي لِتَشْمَلَ الدِّرَاسَةَ وَالصَّلَاةَ",
+        "meaning": "I need to adjust my schedule to include studying and prayers."
+    },
+    {
+        "phrase": "مَتَى تَخْتَتِمُ الْحَفْظَ لِلْقُرْآنِ؟",
+        "meaning": "When will you finish memorizing the Quran?"
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَتَحَلَّى بِالصَّبْرِ فِي كُلِّ شَيْءٍ",
+        "meaning": "I must be patient in everything."
+    },
+    {
+        "phrase": "أَرَادَ أَصْدِقَائِي أَنْ نَذْهَبَ إِلَى الْمَسْجِدِ غَدًا",
+        "meaning": "My friends wanted us to go to the mosque tomorrow."
+    },
+    {
+        "phrase": "لَا تَنسَ أَنْ تَشْكُرَ اللّٰهَ عَلَى النِّعَمِ",
+        "meaning": "Don't forget to thank Allah for the blessings."
+    },
+    {
+        "phrase": "يجب أن أتناول وجبة صحية بعد الصلاة.",
+        "meaning": "I should eat a healthy meal after prayer."
+    },
+    {
+        "phrase": "مَا زِلْتُ أُحَاوِلُ أَنْ أُطَوِّرَ نَفْسِي كُلَّ يَوْمٍ",
+        "meaning": "I am still trying to improve myself every day."
+    },
+    {
+        "phrase": "أَشْعُرُ بِالتَّعَبِ، أَفْضِّلُ أَنْ أَنامَ",
+        "meaning": "I feel tired; I prefer to sleep."
+    },
+    {
+        "phrase": "مَتَى يَحِينَ وَقْتُ الصَّلَاةِ؟",
+        "meaning": "When is the prayer time?"
+    },
+    {
+        "phrase": "عَلَيَّ أَنْ أُكَرِّرَ ذِكْرَ اللّٰه",
+        "meaning": "I need to keep remembering Allah."
+    },
+    {
+        "phrase": "أُرِيدُ أَنْ أَذْهَبَ إِلَى الْمَسْجِدِ",
+        "meaning": "I want to go to the mosque."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أُحَافِظَ عَلَى وَقْتِي",
+        "meaning": "I must manage my time well."
+    },
+    {
+        "phrase": "أَشْعُرُ بِالسَّعَادَةِ عِندَ الْقِيَامِ بِالطَّاعَاتِ",
+        "meaning": "I feel happy when doing good deeds."
+    },
+    {
+        "phrase": "هَلْ تَحَدَّثْتَ مَعَ أَصْدِقَائِكَ عَنِ الْقِيَامِ بِالصَّلَاةِ؟",
+        "meaning": "Did you talk to your friends about performing prayers?"
+    },
+    {
+        "phrase": "يَا رَبِّ، أَسْأَلُكَ التَّوْفِيقَ فِي الدِّرَاسَةِ",
+        "meaning": "O Allah, I ask You for success in my studies."
+    },
+    {
+        "phrase": "مَاذَا أَفْعَلُ إِذَا كَانَ وَقْتُ الصَّلَاةِ قَرِيبًا؟",
+        "meaning": "What should I do if the prayer time is near?"
+    },
+    {
+        "phrase": "أَرْجُو أَنْ أَكُونَ قَدْوَةً لِلآخَرِينَ",
+        "meaning": "I hope to be a role model for others."
+    },
+    {
+        "phrase": "يَجِبُ أَنْ أَذْهَبَ إِلَى الْمِرْحَاضِ",
+        "meaning": "I should go to the washroom."
+    },
+    {
+        "phrase": "أَنَا أَنْتَظِرُ فِي الْمُسْتَشْفَى لِوَالِدَيَّ",
+        "meaning": "I am waiting in the hospital for my parents."
+    },
+    {
+        "phrase": "أَنَا ذَاهِبٌ إِلَى مَكَانٍ بِالْرِّكَاشَةِ",
+        "meaning": "I am going to a place by rickshaw."
+    },
+    {
+        "phrase": "كَانَ سَائِقُ الرِّكَاشَةِ رَجُلًا جَيِّدًا",
+        "meaning": "The rickshaw driver was a good man."
+    },
+    {
+        "phrase": "فَقَدْتُ جَمَاعَةَ صَلَاةِ الْظُّهْرِ",
+        "meaning": "I just missed my Jamat of Dhuhr Salah."
+    },
+    {
+        "phrase": "يَجِبُ أَلَّا أَنظُرَ إِلَى أَيِّ غَيْرَ مَحْرَمٍ",
+        "meaning": "I should not look at any ghayre mahram."
+    },
+    {
+        "phrase": "المَكَانُ جَمِيلٌ",
+        "meaning": "The place is beautiful."
+    },
+    {
+        "phrase": "اليَوْمَ حَارٌّ جِدًّا، يَجِبُ أَنْ أَحْضِرَ مِظَلَّةً",
+        "meaning": "Today is very hot; I should have brought an umbrella."
+    },
+    {
+        "phrase": "اِتَّصِلْ بِي عَلَى الْوَاتْسَاب.",
+        "meaning": "Call me on WhatsApp."
+    },
+    {
+        "phrase": "اِتَّصِلْ بِي بَعْدَ أَنْ تَنْتَهِيَ مِنَ الْعَشَاءِ.",
+        "meaning": "Call me after you finish dinner."
+    },
+    {
+        "phrase": "هَلْ أَنْتَ مَشْغُولٌ؟",
+        "meaning": "Are you busy?"
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُكَ تَفَقُّدُ رَسَائِلِ الْوَاتْسَابِ مِنْ فَضْلِكَ؟",
+        "meaning": "Can you please check WhatsApp messages?"
+    },
+    {
+        "phrase": "مِنْ فَضْلِكَ، لَا تَضْحَكْ، أَنَا فِي خَطَرٍ اَلْآنَ.",
+        "meaning": "Please, don't laugh; I am in danger now."
+    },
+    {
+        "phrase": "هَلْ تَحَدَّثْتَ مَعَ اَلْعَمِّ بِشَأْنِ إِيجَارِ اَلْمَنْزِلِ؟",
+        "meaning": "Did you talk with the uncle regarding home rent?"
+    },
+    {
+        "phrase": "كَمْ أُجْرَةُ اَلتَّنَقُّلِ مِنْ دِيوَانْهَاتْ إِلَى اَلْبَابِ رَقْمَ ٢؟",
+        "meaning": "How much is the fare from Diwanhat to Gate No. 2?"
+    },
+    {
+        "phrase": "مِنْ فَضْلِكَ، اِصْنَعْ كُوبَ شَايٍ.",
+        "meaning": "Please, make a cup of tea."
+    },
+    {
+        "phrase": "اِعْطِنِي لَكَّشِيَيْنِ بِحَجْمِ ٢٠ تَكَةٍ.",
+        "meaning": "Give me two lacchi of 20 Taka size."
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُكَ إِيصَالُ اَلتَّسْلِيمِ إِلَى بَابِ اَلْمَنْزِلِ مِنْ فَضْلِكَ؟",
+        "meaning": "Can you please bring the delivery to the doorstep?"
+    }
+]

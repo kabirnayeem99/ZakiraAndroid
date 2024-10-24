@@ -1,0 +1,206 @@
+[
+    {
+        "phrase": "مَرْحَبًا أَصْدِقَائِي!",
+        "meaning": "Hello, my friends!"
+    },
+    {
+        "phrase": "كَيْفَ حَالُكُمْ؟",
+        "meaning": "How are you all?"
+    },
+    {
+        "phrase": "مَا أَخْبَارُكُمْ؟",
+        "meaning": "What’s new with you?"
+    },
+    {
+        "phrase": "أَحْبُّكُمْ كَثِيرًا.",
+        "meaning": "I love you all very much."
+    },
+    {
+        "phrase": "مَتَى نَتَقَابَلُ؟",
+        "meaning": "When shall we meet?"
+    },
+    {
+        "phrase": "لِنَذْهَبْ إِلَى الْمَطْعَمِ!",
+        "meaning": "Let’s go to the restaurant!"
+    },
+    {
+        "phrase": "أَيْنَ نُودِعُ أَحْلَامَنَا؟",
+        "meaning": "Where do we deposit our dreams?"
+    },
+    {
+        "phrase": "يَا لَهُ مِنْ يَوْمٍ رَائِعٍ!",
+        "meaning": "What a wonderful day!"
+    },
+    {
+        "phrase": "تَعَالَوْا نَتَذَكَّرُ الأَيَّامَ الجَمِيلَةَ.",
+        "meaning": "Let’s remember the good days."
+    },
+    {
+        "phrase": "عَشْتُ مَعَكُمْ أَحْلَى اللَّحَظَاتِ.",
+        "meaning": "I lived the sweetest moments with you."
+    },
+    {
+        "phrase": "لَا تَنْسَوْا أَنْ تَتَّصِلُوا بِي.",
+        "meaning": "Don’t forget to call me."
+    },
+    {
+        "phrase": "مَا أَجْمَلَ ضَحْكَتَكُمْ!",
+        "meaning": "How beautiful your laughter is!"
+    },
+    {
+        "phrase": "إِنَّهُ مِنَ الرَّائِعِ أَنْ أَكُونَ مَعَكُمْ.",
+        "meaning": "It's wonderful to be with you."
+    },
+    {
+        "phrase": "لِنُشَارِكَ بَعْضَ النُّكَتِ.",
+        "meaning": "Let’s share some jokes."
+    },
+    {
+        "phrase": "أَتَمَنَّى أَنْ تَبْقَوْا سُعَداءَ.",
+        "meaning": "I wish you all to stay happy."
+    },
+    {
+        "phrase": "أَشْتَاقُ إِلَيْكُمْ جِدًّا.",
+        "meaning": "I miss you all very much."
+    },
+    {
+        "phrase": "لِنَحْتَسِي قَهْوَةً مَعًا.",
+        "meaning": "Let’s have coffee together."
+    },
+    {
+        "phrase": "أَتَمَنَّى لَكُمْ يَوْمًا رَائِعًا.",
+        "meaning": "I wish you all a wonderful day."
+    },
+    {
+        "phrase": "إِلَى اللِّقَاءِ الْقَرِيبِ!",
+        "meaning": "Until we meet again!"
+    },
+    {
+        "phrase": "هَلْ نَشْرَبُ شَايًا مَعًا؟",
+        "meaning": "Shall we have some tea together?"
+    },
+    {
+        "phrase": "مَنْ سَيَدْفَعُ الْفَاتُورَةَ؟",
+        "meaning": "Who is going to pay the bill?"
+    },
+    {
+        "phrase": "لِنَذْهَبْ إِلَى الْمَطْعَمِ (أ)؛ طَعَامُهُمْ لَذِيذٌ.",
+        "meaning": "Let’s go eat at restaurant A; their food is good."
+    },
+    {
+        "phrase": "كَيْفَ كَانَ اِمْتِحَانُكَ؟",
+        "meaning": "How was your exam?"
+    },
+    {
+        "phrase": "تَعَالَ إِلَى هُنَا.",
+        "meaning": "Come here."
+    },
+    {
+        "phrase": "أَنَا عَلَى الْجَانِبِ الْمُقَابِلِ مِنَ الشَّارِعِ.",
+        "meaning": "I am on the opposite side of the road."
+    },
+    {
+        "phrase": "اَنْظُرْ إِلَى الْيَمِينِ.",
+        "meaning": "Look right."
+    },
+    {
+        "phrase": "لِنَخْرُجْ مَعًا هَذَا الْأَسْبُوعِ.",
+        "meaning": "Let’s go out together this week."
+    },
+    {
+        "phrase": "مَاذَا تَظُنُّ فِي هَذَا الْمَكَانِ؟",
+        "meaning": "What do you think of this place?"
+    },
+    {
+        "phrase": "أَيْنَ نَجِدُ الْمَسْجِدَ؟",
+        "meaning": "Where can we find the mosque?"
+    },
+    {
+        "phrase": "هَلْ سَمِعْتَ عَنْ الْخَطَطَاتِ الْجَدِيدَةِ؟",
+        "meaning": "Have you heard about the new plans?"
+    },
+    {
+        "phrase": "أُحِبُّ قَضاءَ وَقْتِي مَعَكُمْ.",
+        "meaning": "I love spending my time with you."
+    },
+    {
+        "phrase": "مَتَى نَتَجَمَّعُ مَرَّةً أُخْرَى؟",
+        "meaning": "When shall we gather again?"
+    },
+    {
+        "phrase": "لِنَخْطُطِ لِخَرِيجَتِنَا حَفْلَةً مُمْتِعَةً.",
+        "meaning": "Let’s plan an enjoyable graduation party."
+    },
+    {
+        "phrase": "تَسَاءَلَتْ أُمِّي عَنْكُمْ.",
+        "meaning": "My mother asked about you."
+    },
+    {
+        "phrase": "تَقَبَّلُوا تَحِيَّاتِي.",
+        "meaning": "Please accept my greetings."
+    },
+    {
+        "phrase": "اتَّصِلْ بِرَاشِدٍ وَقُلْ لَهُ أَنْ يَأْتِي إِلَى هُنَا.",
+        "meaning": "Call Rashed and ask him to come here."
+    },
+    {
+        "phrase": "هَلْ يُمْكِنُنِي أَنْ أَرْكَبَ دَرَّاجَتَكَ؟",
+        "meaning": "Can I ride your bike?"
+    },
+    {
+        "phrase": "أَخِي، تَعَالَ سُرْعَةً.",
+        "meaning": "Brother, come soon."
+    },
+    {
+        "phrase": "مَتَى سَتَحْضُرُ إِلَى هُنَا؟",
+        "meaning": "When will you come here?"
+    },
+    {
+        "phrase": "أَتَى أَحَدٌ مِنْ أَصْدِقَائِكَ؟",
+        "meaning": "Did any of your friends come?"
+    },
+    {
+        "phrase": "لِيَكُنْ لَدَيْكَ مَوْعِدٌ لِلِّقَاءِ بَعْضُ الأَصْدِقَاءِ.",
+        "meaning": "You should have a meeting with some friends."
+    },
+    {
+        "phrase": "تَطَلَّبَ الْأَمْرُ مَنْهُ أَنْ يَجِيءَ.",
+        "meaning": "The situation requires him to come."
+    },
+    {
+        "phrase": "عَلَيْكَ بِالْمَجِيءِ إِلَى النَّادِي.",
+        "meaning": "You should come to the club."
+    },
+    {
+        "phrase": "يُسَارِعُ الصَّدِيقُ إِلَى الْمَسْجِدِ.",
+        "meaning": "The friend is hurrying to the mosque."
+    },
+    {
+        "phrase": "سَأَتَّصِلُ بِهِ لِيَأْتِي سُرْعَةً.",
+        "meaning": "I will call him to come quickly."
+    },
+    {
+        "phrase": "هَلْ أَسْتَطِيعُ أَنْ أَحْضُرَ مَعَكَ؟",
+        "meaning": "Can I join you?"
+    },
+    {
+        "phrase": "أَيْنَ تَكُونُ الآنَ؟",
+        "meaning": "Where are you now?"
+    },
+    {
+        "phrase": "تَفَرَّغْ مَعِي لِبَعْضِ اللَّحَظَاتِ.",
+        "meaning": "Spend some moments with me."
+    },
+    {
+        "phrase": "لِنَذْهَبْ مَعًا إِلَى الْمَسْجِدِ.",
+        "meaning": "Let’s go to the mosque together."
+    },
+    {
+        "phrase": "تَعَالَ نَتَحَدَّثُ بَعْضَ الشَّيْءِ.",
+        "meaning": "Come, let's talk about something."
+    },
+    {
+        "phrase": "أَحْبُّ أَنْ أَكُونَ مَعَكَ.",
+        "meaning": "I would like to be with you."
+    }
+]
