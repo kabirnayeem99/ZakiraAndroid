@@ -1,0 +1,116 @@
+{
+    "greetings_introductions": [
+        {
+            "arabic": "السَّلَامُ عَلَيْكُمْ",
+            "meaning": "Peace be upon you."
+        },
+        {
+            "arabic": "وَعَلَيْكُمُ السَّلَام",
+            "meaning": "And peace be upon you (response)."
+        },
+        {
+            "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ",
+            "meaning": "Peace, mercy, and blessings of Allah be upon you."
+        },
+        {
+            "arabic": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ",
+            "meaning": "And peace, mercy, and blessings of Allah be upon you (response)."
+        },
+        {
+            "arabic": "بَارَكَ اللهُ فِيكَ",
+            "meaning": "May Allah bless you."
+        },
+        {
+            "arabic": "جَزَاكَ اللهُ خَيْرًا",
+            "meaning": "May Allah reward you with goodness."
+        },
+        {
+            "arabic": "كَيْفَ حَالُكَ؟",
+            "meaning": "How are you? (masculine)"
+        },
+        {
+            "arabic": "كَيْفَ حَالُكِ؟",
+            "meaning": "How are you? (feminine)"
+        },
+        {
+            "arabic": "الْحَمْدُ لِلَّهِ",
+            "meaning": "Praise be to Allah."
+        },
+        {
+            "arabic": "بِخَيْرٍ وَالْحَمْدُ لِلَّهِ",
+            "meaning": "I'm well, and praise be to Allah."
+        },
+        {
+            "arabic": "مَا اِسْمُكَ؟",
+            "meaning": "What is your name? (masculine)"
+        },
+        {
+            "arabic": "مَا اِسْمُكِ؟",
+            "meaning": "What is your name? (feminine)"
+        },
+        {
+            "arabic": "إِسْمِي ...",
+            "meaning": "My name is ..."
+        },
+        {
+            "arabic": "أَهْلًا وَسَهْلًا",
+            "meaning": "Welcome."
+        },
+        {
+            "arabic": "شَرَّفْتَ",
+            "meaning": "You have honored us (masculine)."
+        },
+        {
+            "arabic": "شَرَّفْتِ",
+            "meaning": "You have honored us (feminine)."
+        },
+        {
+            "arabic": "تَشَرَّفْنَا",
+            "meaning": "It’s an honor to meet you."
+        },
+        {
+            "arabic": "فِي أَمَانِ اللهِ",
+            "meaning": "In Allah’s protection (farewell)."
+        },
+        {
+            "arabic": "نَسْأَلُ اللهَ لَكَ التَّوْفِيقَ",
+            "meaning": "We ask Allah to grant you success."
+        },
+        {
+            "arabic": "إِلَى اللِّقَاءِ",
+            "meaning": "Until we meet again (goodbye)."
+        },
+        {
+            "arabic": "فِي رِعَايَةِ اللهِ",
+            "meaning": "In Allah's care (goodbye)."
+        },
+        {
+            "arabic": "السَّلَامُ عَلَى مَنْ اِتَّبَعَ الْهُدَى",
+            "meaning": "Peace be upon those who follow the guidance."
+        },
+        {
+            "arabic": "هَذَا أَخِي فِي الدِّين",
+            "meaning": "This is my brother in faith."
+        },
+        {
+            "arabic": "هَذِهِ أُخْتِي فِي الدِّين",
+            "meaning": "This is my sister in faith."
+        },
+        {
+            "arabic": "نَحْنُ أُسْرَةٌ مُسْلِمَةٌ",
+            "meaning": "We are a Muslim family."
+        },
+        {
+            "arabic": "أَنَا مِنْ أُمَّةِ مُحَمَّدٍ ﷺ",
+            "meaning": "I am from the Ummah of Muhammad (peace be upon him)."
+        },
+        {
+            "arabic": "أَنَا مُسْلِم/مُسْلِمَة",
+            "meaning": "I am a Muslim (male/female)."
+        },
+        {
+            "arabic": "كُنْتُ أَسْتَمِعُ إِلَى الدَّعْوَةِ",
+            "meaning": "I was listening to the call (Islamic discussion or sermon)."
+        }
+    ]
+}
