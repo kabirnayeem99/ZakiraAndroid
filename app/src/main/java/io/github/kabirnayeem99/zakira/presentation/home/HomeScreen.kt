@@ -6,19 +6,12 @@ import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
 import androidx.activity.compose.BackHandler
-import androidx.compose.animation.AnimatedVisibility
-import androidx.compose.animation.fadeIn
-import androidx.compose.animation.fadeOut
-import androidx.compose.animation.scaleIn
-import androidx.compose.animation.scaleOut
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
@@ -28,12 +21,10 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.rounded.ArrowForwardIos
 import androidx.compose.material.icons.automirrored.rounded.ManageSearch
 import androidx.compose.material.icons.automirrored.rounded.MenuOpen
-import androidx.compose.material.icons.rounded.AddCircleOutline
 import androidx.compose.material.icons.rounded.Category
 import androidx.compose.material.icons.rounded.Favorite
 import androidx.compose.material.icons.rounded.KeyboardArrowDown
 import androidx.compose.material.icons.rounded.KeyboardArrowUp
-import androidx.compose.material3.Button
 import androidx.compose.material3.DrawerValue
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.FabPosition
@@ -57,13 +48,11 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextDirection
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
@@ -72,7 +61,6 @@ import io.github.kabirnayeem99.zakira.R
 import io.github.kabirnayeem99.zakira.presentation.common.BaseComposeScreen
 import io.github.kabirnayeem99.zakira.presentation.common.HandleUiEvents
 import io.github.kabirnayeem99.zakira.presentation.common.LastItemPaginatingView
-import io.github.kabirnayeem99.zakira.presentation.common.config.ZakiraLanguageMemoryTheme
 import kotlinx.coroutines.launch
 import kotlinx.serialization.Serializable
 
@@ -353,50 +341,4 @@ fun HomeScreen(
 
     HandleUiEvents(uiEvents = viewModel.uiEvent, snackbarHostState = snackbarHostState)
 
-}
-
-@Composable
-private fun AddNewPhraseFloatingActionButton(
-    visible: Boolean = false,
-    onClick: () -> Unit,
-) {
-    AnimatedVisibility(
-        visible = visible,
-        enter = scaleIn() + fadeIn(),
-        exit = scaleOut() + fadeOut(),
-        label = "AddNewPhraseFloatingActionButtonAnimation"
-    ) {
-        Button(
-            onClick = {
-                onClick()
-            },
-            shape = RoundedCornerShape(8.dp),
-        ) {
-            Row(
-                horizontalArrangement = Arrangement.SpaceEvenly,
-                verticalAlignment = Alignment.CenterVertically,
-            ) {
-                Icon(
-                    imageVector = Icons.Rounded.AddCircleOutline, contentDescription = null
-                )
-                Spacer(Modifier.width(8.dp))
-                Text(
-                    "أضف عبارة جديدة", style = MaterialTheme.typography.labelLarge.copy(
-                        textDirection = TextDirection.Rtl,
-                        fontSize = 18.sp,
-                        fontWeight = FontWeight.Bold,
-                    )
-                )
-            }
-        }
-    }
-}
-
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    ZakiraLanguageMemoryTheme {
-        HomeScreen()
-    }
 }

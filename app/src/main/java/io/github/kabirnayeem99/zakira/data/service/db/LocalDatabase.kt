@@ -20,7 +20,7 @@ abstract class LocalDatabase : RoomDatabase() {
             try {
                 val instance = Room.databaseBuilder(
                     context, LocalDatabase::class.java, "zakira_local_database"
-                ).createFromAsset("database/database.db").build()
+                ).build()
                 INSTANCE = instance
                 return instance
             } catch (e: Exception) {
