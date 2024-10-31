@@ -4,6 +4,7 @@ import io.github.kabirnayeem99.zakira.data.dto.CategoryRoomEntity
 import io.github.kabirnayeem99.zakira.data.dto.PhraseRoomEntity
 import io.github.kabirnayeem99.zakira.data.service.db.CategoryRoomDao
 import io.github.kabirnayeem99.zakira.data.service.db.PhraseRoomDao
+import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
 class PhraseLocalDataSource @Inject constructor(
@@ -12,6 +13,18 @@ class PhraseLocalDataSource @Inject constructor(
 ) {
     suspend fun getPhrases(categoryIds: List<Long>, page: Int): List<PhraseRoomEntity> {
         return phraseRoomDao.getAll(categoryIds, (page * 10) - 10)
+    }
+
+    fun getRandomPhrases(): Flow<List<PhraseRoomEntity>> {
+        return phraseRoomDao.getRandomPhrases()
+    }
+
+     fun getRecentPhrases(): Flow<List<PhraseRoomEntity>> {
+        return phraseRoomDao.getRecentPhrases()
+    }
+
+     fun getFavouritePhrases(): Flow<List<PhraseRoomEntity>> {
+        return phraseRoomDao.getFavouritePhrases()
     }
 
     suspend fun getOnlyFavouritesPhrases(
@@ -33,6 +46,10 @@ class PhraseLocalDataSource @Inject constructor(
         return phraseRoomDao.insert(phrase.copy(isCustom = 0))
     }
 
+    suspend fun addPhrases(phrases: List<PhraseRoomEntity>): List<Long> {
+        return phraseRoomDao.insertAll(phrases)
+    }
+
     suspend fun deletePhrase(phraseId: Long): PhraseRoomEntity {
         val phrase = phraseRoomDao.getById(phraseId)
         phraseRoomDao.deleteById(phraseId)
@@ -41,7 +58,6 @@ class PhraseLocalDataSource @Inject constructor(
 
     suspend fun searchPhrases(
         searchQuery: String,
-        page: Int = 1,
         categoryIds: List<Long>
     ): List<PhraseRoomEntity> {
         return phraseRoomDao.searchPhrases(searchQuery, categoryIds)

@@ -30,4 +30,6 @@ data class PhraseRoomEntity(
     @ColumnInfo(name = "is_read", defaultValue = "0") val isRead: Int = 0,
 
     @ColumnInfo(name = "is_custom", defaultValue = "0") val isCustom: Int = 0,
+
+    @ColumnInfo("last_read_time") val lastReadTime: Long = 0L,
 )

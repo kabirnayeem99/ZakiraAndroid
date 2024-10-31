@@ -10,4 +10,5 @@ data class Phrase(
     val doesNeedFurtherPractice: Boolean = false,
     val isRead: Boolean = false,
     val isCustom: Boolean = false,
+    val learnScore: Float = 0.0F,
 )

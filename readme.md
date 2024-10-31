@@ -12,6 +12,8 @@
 - **Enhanced Text Copy** - Enable copying of specific phrase formats.
 - **Auto JSON Copy on Launch** - Automatically copy a specific JSON phrase type upon app open.
 
+## Resources
+- For JSON storage, we will use [JSONStorage.net](https://app.jsonstorage.net/items) / [JSON Blob](https://www.jsonblob.com/api)
 ---
 
 **Note:** This project is developed primarily for personal use.

@@ -5,11 +5,15 @@ import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Update
 import io.github.kabirnayeem99.zakira.data.dto.PhraseRoomEntity
+import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface PhraseRoomDao {
     @Insert
     suspend fun insert(phraseRoomEntity: PhraseRoomEntity): Long
+
+    @Insert
+    suspend fun insertAll(phrases: List<PhraseRoomEntity>): List<Long>
 
     @Query("SELECT * FROM phrases WHERE category_id IN (:categoryIds) ORDER BY arabic LIMIT 10 OFFSET :offset")
     suspend fun getAll(categoryIds: List<Long>, offset: Int): List<PhraseRoomEntity>
@@ -51,4 +55,33 @@ interface PhraseRoomDao {
 
     @Query("UPDATE phrases SET is_read = CASE WHEN is_read = 0 THEN 1 ELSE 0 END WHERE id = :phraseId")
     suspend fun toggleRead(phraseId: Long)
+
+
+    @Query(
+        """
+        SELECT * FROM phrases 
+        ORDER BY RANDOM() 
+        LIMIT 12
+    """
+    )
+     fun getRandomPhrases(): Flow<List<PhraseRoomEntity>>
+
+    @Query(
+        """
+        SELECT * FROM phrases 
+        ORDER BY last_read_time DESC 
+        LIMIT 12
+    """
+    )
+     fun getRecentPhrases():Flow<List<PhraseRoomEntity>>
+
+    @Query(
+        """
+        SELECT * FROM phrases 
+        WHERE is_favourite = 1
+        ORDER BY last_read_time DESC 
+        LIMIT 30
+    """
+    )
+     fun getFavouritePhrases(): Flow<List<PhraseRoomEntity>>
 }
